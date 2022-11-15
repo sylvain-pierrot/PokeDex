@@ -1,0 +1,6926 @@
+[
+    {
+        "id": 1,
+        "name": "bulbasaur",
+        "traduction": "Bulbizarre",
+        "legendary": false
+    },
+    {
+        "id": 2,
+        "name": "ivysaur",
+        "traduction": "Herbizarre",
+        "legendary": false
+    },
+    {
+        "id": 3,
+        "name": "venusaur",
+        "traduction": "Florizarre",
+        "legendary": false
+    },
+    {
+        "id": 4,
+        "name": "charmander",
+        "traduction": "Salamèche",
+        "legendary": false
+    },
+    {
+        "id": 5,
+        "name": "charmeleon",
+        "traduction": "Reptincel",
+        "legendary": false
+    },
+    {
+        "id": 6,
+        "name": "charizard",
+        "traduction": "Dracaufeu",
+        "legendary": false
+    },
+    {
+        "id": 7,
+        "name": "squirtle",
+        "traduction": "Carapuce",
+        "legendary": false
+    },
+    {
+        "id": 8,
+        "name": "wartortle",
+        "traduction": "Carabaffe",
+        "legendary": false
+    },
+    {
+        "id": 9,
+        "name": "blastoise",
+        "traduction": "Tortank",
+        "legendary": false
+    },
+    {
+        "id": 10,
+        "name": "caterpie",
+        "traduction": "Chenipan",
+        "legendary": false
+    },
+    {
+        "id": 11,
+        "name": "metapod",
+        "traduction": "Chrysacier",
+        "legendary": false
+    },
+    {
+        "id": 12,
+        "name": "butterfree",
+        "traduction": "Papilusion",
+        "legendary": false
+    },
+    {
+        "id": 13,
+        "name": "weedle",
+        "traduction": "Aspicot",
+        "legendary": false
+    },
+    {
+        "id": 14,
+        "name": "kakuna",
+        "traduction": "Coconfort",
+        "legendary": false
+    },
+    {
+        "id": 15,
+        "name": "beedrill",
+        "traduction": "Dardargnan",
+        "legendary": false
+    },
+    {
+        "id": 16,
+        "name": "pidgey",
+        "traduction": "Roucool",
+        "legendary": false
+    },
+    {
+        "id": 17,
+        "name": "pidgeotto",
+        "traduction": "Roucoups",
+        "legendary": false
+    },
+    {
+        "id": 18,
+        "name": "pidgeot",
+        "traduction": "Roucarnage",
+        "legendary": false
+    },
+    {
+        "id": 19,
+        "name": "rattata",
+        "traduction": "Rattata",
+        "legendary": false
+    },
+    {
+        "id": 20,
+        "name": "raticate",
+        "traduction": "Rattatac",
+        "legendary": false
+    },
+    {
+        "id": 21,
+        "name": "spearow",
+        "traduction": "Piafabec",
+        "legendary": false
+    },
+    {
+        "id": 22,
+        "name": "fearow",
+        "traduction": "Rapasdepic",
+        "legendary": false
+    },
+    {
+        "id": 23,
+        "name": "ekans",
+        "traduction": "Abo",
+        "legendary": false
+    },
+    {
+        "id": 24,
+        "name": "arbok",
+        "traduction": "Arbok",
+        "legendary": false
+    },
+    {
+        "id": 25,
+        "name": "pikachu",
+        "traduction": "Pikachu",
+        "legendary": false
+    },
+    {
+        "id": 26,
+        "name": "raichu",
+        "traduction": "Raichu",
+        "legendary": false
+    },
+    {
+        "id": 27,
+        "name": "sandshrew",
+        "traduction": "Sabelette",
+        "legendary": false
+    },
+    {
+        "id": 28,
+        "name": "sandslash",
+        "traduction": "Sablaireau",
+        "legendary": false
+    },
+    {
+        "id": 29,
+        "name": "nidoran-f",
+        "traduction": "Nidoran♀",
+        "legendary": false
+    },
+    {
+        "id": 30,
+        "name": "nidorina",
+        "traduction": "Nidorina",
+        "legendary": false
+    },
+    {
+        "id": 31,
+        "name": "nidoqueen",
+        "traduction": "Nidoqueen",
+        "legendary": false
+    },
+    {
+        "id": 32,
+        "name": "nidoran-m",
+        "traduction": "Nidoran♂",
+        "legendary": false
+    },
+    {
+        "id": 33,
+        "name": "nidorino",
+        "traduction": "Nidorino",
+        "legendary": false
+    },
+    {
+        "id": 34,
+        "name": "nidoking",
+        "traduction": "Nidoking",
+        "legendary": false
+    },
+    {
+        "id": 35,
+        "name": "clefairy",
+        "traduction": "Mélofée",
+        "legendary": false
+    },
+    {
+        "id": 36,
+        "name": "clefable",
+        "traduction": "Mélodelfe",
+        "legendary": false
+    },
+    {
+        "id": 37,
+        "name": "vulpix",
+        "traduction": "Goupix",
+        "legendary": false
+    },
+    {
+        "id": 38,
+        "name": "ninetales",
+        "traduction": "Feunard",
+        "legendary": false
+    },
+    {
+        "id": 39,
+        "name": "jigglypuff",
+        "traduction": "Rondoudou",
+        "legendary": false
+    },
+    {
+        "id": 40,
+        "name": "wigglytuff",
+        "traduction": "Grodoudou",
+        "legendary": false
+    },
+    {
+        "id": 41,
+        "name": "zubat",
+        "traduction": "Nosferapti",
+        "legendary": false
+    },
+    {
+        "id": 42,
+        "name": "golbat",
+        "traduction": "Nosferalto",
+        "legendary": false
+    },
+    {
+        "id": 43,
+        "name": "oddish",
+        "traduction": "Mystherbe",
+        "legendary": false
+    },
+    {
+        "id": 44,
+        "name": "gloom",
+        "traduction": "Ortide",
+        "legendary": false
+    },
+    {
+        "id": 45,
+        "name": "vileplume",
+        "traduction": "Rafflesia",
+        "legendary": false
+    },
+    {
+        "id": 46,
+        "name": "paras",
+        "traduction": "Paras",
+        "legendary": false
+    },
+    {
+        "id": 47,
+        "name": "parasect",
+        "traduction": "Parasect",
+        "legendary": false
+    },
+    {
+        "id": 48,
+        "name": "venonat",
+        "traduction": "Mimitoss",
+        "legendary": false
+    },
+    {
+        "id": 49,
+        "name": "venomoth",
+        "traduction": "Aéromite",
+        "legendary": false
+    },
+    {
+        "id": 50,
+        "name": "diglett",
+        "traduction": "Taupiqueur",
+        "legendary": false
+    },
+    {
+        "id": 51,
+        "name": "dugtrio",
+        "traduction": "Triopikeur",
+        "legendary": false
+    },
+    {
+        "id": 52,
+        "name": "meowth",
+        "traduction": "Miaouss",
+        "legendary": false
+    },
+    {
+        "id": 53,
+        "name": "persian",
+        "traduction": "Persian",
+        "legendary": false
+    },
+    {
+        "id": 54,
+        "name": "psyduck",
+        "traduction": "Psykokwak",
+        "legendary": false
+    },
+    {
+        "id": 55,
+        "name": "golduck",
+        "traduction": "Akwakwak",
+        "legendary": false
+    },
+    {
+        "id": 56,
+        "name": "mankey",
+        "traduction": "Férosinge",
+        "legendary": false
+    },
+    {
+        "id": 57,
+        "name": "primeape",
+        "traduction": "Colossinge",
+        "legendary": false
+    },
+    {
+        "id": 58,
+        "name": "growlithe",
+        "traduction": "Caninos",
+        "legendary": false
+    },
+    {
+        "id": 59,
+        "name": "arcanine",
+        "traduction": "Arcanin",
+        "legendary": false
+    },
+    {
+        "id": 60,
+        "name": "poliwag",
+        "traduction": "Ptitard",
+        "legendary": false
+    },
+    {
+        "id": 61,
+        "name": "poliwhirl",
+        "traduction": "Têtarte",
+        "legendary": false
+    },
+    {
+        "id": 62,
+        "name": "poliwrath",
+        "traduction": "Tartard",
+        "legendary": false
+    },
+    {
+        "id": 63,
+        "name": "abra",
+        "traduction": "Abra",
+        "legendary": false
+    },
+    {
+        "id": 64,
+        "name": "kadabra",
+        "traduction": "Kadabra",
+        "legendary": false
+    },
+    {
+        "id": 65,
+        "name": "alakazam",
+        "traduction": "Alakazam",
+        "legendary": false
+    },
+    {
+        "id": 66,
+        "name": "machop",
+        "traduction": "Machoc",
+        "legendary": false
+    },
+    {
+        "id": 67,
+        "name": "machoke",
+        "traduction": "Machopeur",
+        "legendary": false
+    },
+    {
+        "id": 68,
+        "name": "machamp",
+        "traduction": "Mackogneur",
+        "legendary": false
+    },
+    {
+        "id": 69,
+        "name": "bellsprout",
+        "traduction": "Chétiflor",
+        "legendary": false
+    },
+    {
+        "id": 70,
+        "name": "weepinbell",
+        "traduction": "Boustiflor",
+        "legendary": false
+    },
+    {
+        "id": 71,
+        "name": "victreebel",
+        "traduction": "Empiflor",
+        "legendary": false
+    },
+    {
+        "id": 72,
+        "name": "tentacool",
+        "traduction": "Tentacool",
+        "legendary": false
+    },
+    {
+        "id": 73,
+        "name": "tentacruel",
+        "traduction": "Tentacruel",
+        "legendary": false
+    },
+    {
+        "id": 74,
+        "name": "geodude",
+        "traduction": "Racaillou",
+        "legendary": false
+    },
+    {
+        "id": 75,
+        "name": "graveler",
+        "traduction": "Gravalanch",
+        "legendary": false
+    },
+    {
+        "id": 76,
+        "name": "golem",
+        "traduction": "Grolem",
+        "legendary": false
+    },
+    {
+        "id": 77,
+        "name": "ponyta",
+        "traduction": "Ponyta",
+        "legendary": false
+    },
+    {
+        "id": 78,
+        "name": "rapidash",
+        "traduction": "Galopa",
+        "legendary": false
+    },
+    {
+        "id": 79,
+        "name": "slowpoke",
+        "traduction": "Ramoloss",
+        "legendary": false
+    },
+    {
+        "id": 80,
+        "name": "slowbro",
+        "traduction": "Flagadoss",
+        "legendary": false
+    },
+    {
+        "id": 81,
+        "name": "magnemite",
+        "traduction": "Magnéti",
+        "legendary": false
+    },
+    {
+        "id": 82,
+        "name": "magneton",
+        "traduction": "Magnéton",
+        "legendary": false
+    },
+    {
+        "id": 83,
+        "name": "farfetchd",
+        "traduction": "Canarticho",
+        "legendary": false
+    },
+    {
+        "id": 84,
+        "name": "doduo",
+        "traduction": "Doduo",
+        "legendary": false
+    },
+    {
+        "id": 85,
+        "name": "dodrio",
+        "traduction": "Dodrio",
+        "legendary": false
+    },
+    {
+        "id": 86,
+        "name": "seel",
+        "traduction": "Otaria",
+        "legendary": false
+    },
+    {
+        "id": 87,
+        "name": "dewgong",
+        "traduction": "Lamantine",
+        "legendary": false
+    },
+    {
+        "id": 88,
+        "name": "grimer",
+        "traduction": "Tadmorv",
+        "legendary": false
+    },
+    {
+        "id": 89,
+        "name": "muk",
+        "traduction": "Grotadmorv",
+        "legendary": false
+    },
+    {
+        "id": 90,
+        "name": "shellder",
+        "traduction": "Kokiyas",
+        "legendary": false
+    },
+    {
+        "id": 91,
+        "name": "cloyster",
+        "traduction": "Crustabri",
+        "legendary": false
+    },
+    {
+        "id": 92,
+        "name": "gastly",
+        "traduction": "Fantominus",
+        "legendary": false
+    },
+    {
+        "id": 93,
+        "name": "haunter",
+        "traduction": "Spectrum",
+        "legendary": false
+    },
+    {
+        "id": 94,
+        "name": "gengar",
+        "traduction": "Ectoplasma",
+        "legendary": false
+    },
+    {
+        "id": 95,
+        "name": "onix",
+        "traduction": "Onix",
+        "legendary": false
+    },
+    {
+        "id": 96,
+        "name": "drowzee",
+        "traduction": "Soporifik",
+        "legendary": false
+    },
+    {
+        "id": 97,
+        "name": "hypno",
+        "traduction": "Hypnomade",
+        "legendary": false
+    },
+    {
+        "id": 98,
+        "name": "krabby",
+        "traduction": "Krabby",
+        "legendary": false
+    },
+    {
+        "id": 99,
+        "name": "kingler",
+        "traduction": "Krabboss",
+        "legendary": false
+    },
+    {
+        "id": 100,
+        "name": "voltorb",
+        "traduction": "Voltorbe",
+        "legendary": false
+    },
+    {
+        "id": 101,
+        "name": "electrode",
+        "traduction": "Électrode",
+        "legendary": false
+    },
+    {
+        "id": 102,
+        "name": "exeggcute",
+        "traduction": "Noeunoeuf",
+        "legendary": false
+    },
+    {
+        "id": 103,
+        "name": "exeggutor",
+        "traduction": "Noadkoko",
+        "legendary": false
+    },
+    {
+        "id": 104,
+        "name": "cubone",
+        "traduction": "Osselait",
+        "legendary": false
+    },
+    {
+        "id": 105,
+        "name": "marowak",
+        "traduction": "Ossatueur",
+        "legendary": false
+    },
+    {
+        "id": 106,
+        "name": "hitmonlee",
+        "traduction": "Kicklee",
+        "legendary": false
+    },
+    {
+        "id": 107,
+        "name": "hitmonchan",
+        "traduction": "Tygnon",
+        "legendary": false
+    },
+    {
+        "id": 108,
+        "name": "lickitung",
+        "traduction": "Excelangue",
+        "legendary": false
+    },
+    {
+        "id": 109,
+        "name": "koffing",
+        "traduction": "Smogo",
+        "legendary": false
+    },
+    {
+        "id": 110,
+        "name": "weezing",
+        "traduction": "Smogogo",
+        "legendary": false
+    },
+    {
+        "id": 111,
+        "name": "rhyhorn",
+        "traduction": "Rhinocorne",
+        "legendary": false
+    },
+    {
+        "id": 112,
+        "name": "rhydon",
+        "traduction": "Rhinoféros",
+        "legendary": false
+    },
+    {
+        "id": 113,
+        "name": "chansey",
+        "traduction": "Leveinard",
+        "legendary": false
+    },
+    {
+        "id": 114,
+        "name": "tangela",
+        "traduction": "Saquedeneu",
+        "legendary": false
+    },
+    {
+        "id": 115,
+        "name": "kangaskhan",
+        "traduction": "Kangourex",
+        "legendary": false
+    },
+    {
+        "id": 116,
+        "name": "horsea",
+        "traduction": "Hypotrempe",
+        "legendary": false
+    },
+    {
+        "id": 117,
+        "name": "seadra",
+        "traduction": "Hypocéan",
+        "legendary": false
+    },
+    {
+        "id": 118,
+        "name": "goldeen",
+        "traduction": "Poissirène",
+        "legendary": false
+    },
+    {
+        "id": 119,
+        "name": "seaking",
+        "traduction": "Poissoroy",
+        "legendary": false
+    },
+    {
+        "id": 120,
+        "name": "staryu",
+        "traduction": "Stari",
+        "legendary": false
+    },
+    {
+        "id": 121,
+        "name": "starmie",
+        "traduction": "Staross",
+        "legendary": false
+    },
+    {
+        "id": 122,
+        "name": "mr-mime",
+        "traduction": "M. Mime",
+        "legendary": false
+    },
+    {
+        "id": 123,
+        "name": "scyther",
+        "traduction": "Insécateur",
+        "legendary": false
+    },
+    {
+        "id": 124,
+        "name": "jynx",
+        "traduction": "Lippoutou",
+        "legendary": false
+    },
+    {
+        "id": 125,
+        "name": "electabuzz",
+        "traduction": "Élektek",
+        "legendary": false
+    },
+    {
+        "id": 126,
+        "name": "magmar",
+        "traduction": "Magmar",
+        "legendary": false
+    },
+    {
+        "id": 127,
+        "name": "pinsir",
+        "traduction": "Scarabrute",
+        "legendary": false
+    },
+    {
+        "id": 128,
+        "name": "tauros",
+        "traduction": "Tauros",
+        "legendary": false
+    },
+    {
+        "id": 129,
+        "name": "magikarp",
+        "traduction": "Magicarpe",
+        "legendary": false
+    },
+    {
+        "id": 130,
+        "name": "gyarados",
+        "traduction": "Léviator",
+        "legendary": false
+    },
+    {
+        "id": 131,
+        "name": "lapras",
+        "traduction": "Lokhlass",
+        "legendary": false
+    },
+    {
+        "id": 132,
+        "name": "ditto",
+        "traduction": "Métamorph",
+        "legendary": false
+    },
+    {
+        "id": 133,
+        "name": "eevee",
+        "traduction": "Évoli",
+        "legendary": false
+    },
+    {
+        "id": 134,
+        "name": "vaporeon",
+        "traduction": "Aquali",
+        "legendary": false
+    },
+    {
+        "id": 135,
+        "name": "jolteon",
+        "traduction": "Voltali",
+        "legendary": false
+    },
+    {
+        "id": 136,
+        "name": "flareon",
+        "traduction": "Pyroli",
+        "legendary": false
+    },
+    {
+        "id": 137,
+        "name": "porygon",
+        "traduction": "Porygon",
+        "legendary": false
+    },
+    {
+        "id": 138,
+        "name": "omanyte",
+        "traduction": "Amonita",
+        "legendary": false
+    },
+    {
+        "id": 139,
+        "name": "omastar",
+        "traduction": "Amonistar",
+        "legendary": false
+    },
+    {
+        "id": 140,
+        "name": "kabuto",
+        "traduction": "Kabuto",
+        "legendary": false
+    },
+    {
+        "id": 141,
+        "name": "kabutops",
+        "traduction": "Kabutops",
+        "legendary": false
+    },
+    {
+        "id": 142,
+        "name": "aerodactyl",
+        "traduction": "Ptéra",
+        "legendary": false
+    },
+    {
+        "id": 143,
+        "name": "snorlax",
+        "traduction": "Ronflex",
+        "legendary": false
+    },
+    {
+        "id": 144,
+        "name": "articuno",
+        "traduction": "Artikodin",
+        "legendary": true
+    },
+    {
+        "id": 145,
+        "name": "zapdos",
+        "traduction": "Électhor",
+        "legendary": true
+    },
+    {
+        "id": 146,
+        "name": "moltres",
+        "traduction": "Sulfura",
+        "legendary": true
+    },
+    {
+        "id": 147,
+        "name": "dratini",
+        "traduction": "Minidraco",
+        "legendary": false
+    },
+    {
+        "id": 148,
+        "name": "dragonair",
+        "traduction": "Draco",
+        "legendary": false
+    },
+    {
+        "id": 149,
+        "name": "dragonite",
+        "traduction": "Dracolosse",
+        "legendary": false
+    },
+    {
+        "id": 150,
+        "name": "mewtwo",
+        "traduction": "Mewtwo",
+        "legendary": true
+    },
+    {
+        "id": 151,
+        "name": "mew",
+        "traduction": "Mew",
+        "legendary": false
+    },
+    {
+        "id": 152,
+        "name": "chikorita",
+        "traduction": "Germignon",
+        "legendary": false
+    },
+    {
+        "id": 153,
+        "name": "bayleef",
+        "traduction": "Macronium",
+        "legendary": false
+    },
+    {
+        "id": 154,
+        "name": "meganium",
+        "traduction": "Méganium",
+        "legendary": false
+    },
+    {
+        "id": 155,
+        "name": "cyndaquil",
+        "traduction": "Héricendre",
+        "legendary": false
+    },
+    {
+        "id": 156,
+        "name": "quilava",
+        "traduction": "Feurisson",
+        "legendary": false
+    },
+    {
+        "id": 157,
+        "name": "typhlosion",
+        "traduction": "Typhlosion",
+        "legendary": false
+    },
+    {
+        "id": 158,
+        "name": "totodile",
+        "traduction": "Kaiminus",
+        "legendary": false
+    },
+    {
+        "id": 159,
+        "name": "croconaw",
+        "traduction": "Crocrodil",
+        "legendary": false
+    },
+    {
+        "id": 160,
+        "name": "feraligatr",
+        "traduction": "Aligatueur",
+        "legendary": false
+    },
+    {
+        "id": 161,
+        "name": "sentret",
+        "traduction": "Fouinette",
+        "legendary": false
+    },
+    {
+        "id": 162,
+        "name": "furret",
+        "traduction": "Fouinar",
+        "legendary": false
+    },
+    {
+        "id": 163,
+        "name": "hoothoot",
+        "traduction": "Hoothoot",
+        "legendary": false
+    },
+    {
+        "id": 164,
+        "name": "noctowl",
+        "traduction": "Noarfang",
+        "legendary": false
+    },
+    {
+        "id": 165,
+        "name": "ledyba",
+        "traduction": "Coxy",
+        "legendary": false
+    },
+    {
+        "id": 166,
+        "name": "ledian",
+        "traduction": "Coxyclaque",
+        "legendary": false
+    },
+    {
+        "id": 167,
+        "name": "spinarak",
+        "traduction": "Mimigal",
+        "legendary": false
+    },
+    {
+        "id": 168,
+        "name": "ariados",
+        "traduction": "Migalos",
+        "legendary": false
+    },
+    {
+        "id": 169,
+        "name": "crobat",
+        "traduction": "Nostenfer",
+        "legendary": false
+    },
+    {
+        "id": 170,
+        "name": "chinchou",
+        "traduction": "Loupio",
+        "legendary": false
+    },
+    {
+        "id": 171,
+        "name": "lanturn",
+        "traduction": "Lanturn",
+        "legendary": false
+    },
+    {
+        "id": 172,
+        "name": "pichu",
+        "traduction": "Pichu",
+        "legendary": false
+    },
+    {
+        "id": 173,
+        "name": "cleffa",
+        "traduction": "Mélo",
+        "legendary": false
+    },
+    {
+        "id": 174,
+        "name": "igglybuff",
+        "traduction": "Toudoudou",
+        "legendary": false
+    },
+    {
+        "id": 175,
+        "name": "togepi",
+        "traduction": "Togepi",
+        "legendary": false
+    },
+    {
+        "id": 176,
+        "name": "togetic",
+        "traduction": "Togetic",
+        "legendary": false
+    },
+    {
+        "id": 177,
+        "name": "natu",
+        "traduction": "Natu",
+        "legendary": false
+    },
+    {
+        "id": 178,
+        "name": "xatu",
+        "traduction": "Xatu",
+        "legendary": false
+    },
+    {
+        "id": 179,
+        "name": "mareep",
+        "traduction": "Wattouat",
+        "legendary": false
+    },
+    {
+        "id": 180,
+        "name": "flaaffy",
+        "traduction": "Lainergie",
+        "legendary": false
+    },
+    {
+        "id": 181,
+        "name": "ampharos",
+        "traduction": "Pharamp",
+        "legendary": false
+    },
+    {
+        "id": 182,
+        "name": "bellossom",
+        "traduction": "Joliflor",
+        "legendary": false
+    },
+    {
+        "id": 183,
+        "name": "marill",
+        "traduction": "Marill",
+        "legendary": false
+    },
+    {
+        "id": 184,
+        "name": "azumarill",
+        "traduction": "Azumarill",
+        "legendary": false
+    },
+    {
+        "id": 185,
+        "name": "sudowoodo",
+        "traduction": "Simularbre",
+        "legendary": false
+    },
+    {
+        "id": 186,
+        "name": "politoed",
+        "traduction": "Tarpaud",
+        "legendary": false
+    },
+    {
+        "id": 187,
+        "name": "hoppip",
+        "traduction": "Granivol",
+        "legendary": false
+    },
+    {
+        "id": 188,
+        "name": "skiploom",
+        "traduction": "Floravol",
+        "legendary": false
+    },
+    {
+        "id": 189,
+        "name": "jumpluff",
+        "traduction": "Cotovol",
+        "legendary": false
+    },
+    {
+        "id": 190,
+        "name": "aipom",
+        "traduction": "Capumain",
+        "legendary": false
+    },
+    {
+        "id": 191,
+        "name": "sunkern",
+        "traduction": "Tournegrin",
+        "legendary": false
+    },
+    {
+        "id": 192,
+        "name": "sunflora",
+        "traduction": "Héliatronc",
+        "legendary": false
+    },
+    {
+        "id": 193,
+        "name": "yanma",
+        "traduction": "Yanma",
+        "legendary": false
+    },
+    {
+        "id": 194,
+        "name": "wooper",
+        "traduction": "Axoloto",
+        "legendary": false
+    },
+    {
+        "id": 195,
+        "name": "quagsire",
+        "traduction": "Maraiste",
+        "legendary": false
+    },
+    {
+        "id": 196,
+        "name": "espeon",
+        "traduction": "Mentali",
+        "legendary": false
+    },
+    {
+        "id": 197,
+        "name": "umbreon",
+        "traduction": "Noctali",
+        "legendary": false
+    },
+    {
+        "id": 198,
+        "name": "murkrow",
+        "traduction": "Cornèbre",
+        "legendary": false
+    },
+    {
+        "id": 199,
+        "name": "slowking",
+        "traduction": "Roigada",
+        "legendary": false
+    },
+    {
+        "id": 200,
+        "name": "misdreavus",
+        "traduction": "Feuforêve",
+        "legendary": false
+    },
+    {
+        "id": 201,
+        "name": "unown",
+        "traduction": "Zarbi",
+        "legendary": false
+    },
+    {
+        "id": 202,
+        "name": "wobbuffet",
+        "traduction": "Qulbutoké",
+        "legendary": false
+    },
+    {
+        "id": 203,
+        "name": "girafarig",
+        "traduction": "Girafarig",
+        "legendary": false
+    },
+    {
+        "id": 204,
+        "name": "pineco",
+        "traduction": "Pomdepik",
+        "legendary": false
+    },
+    {
+        "id": 205,
+        "name": "forretress",
+        "traduction": "Foretress",
+        "legendary": false
+    },
+    {
+        "id": 206,
+        "name": "dunsparce",
+        "traduction": "Insolourdo",
+        "legendary": false
+    },
+    {
+        "id": 207,
+        "name": "gligar",
+        "traduction": "Scorplane",
+        "legendary": false
+    },
+    {
+        "id": 208,
+        "name": "steelix",
+        "traduction": "Steelix",
+        "legendary": false
+    },
+    {
+        "id": 209,
+        "name": "snubbull",
+        "traduction": "Snubbull",
+        "legendary": false
+    },
+    {
+        "id": 210,
+        "name": "granbull",
+        "traduction": "Granbull",
+        "legendary": false
+    },
+    {
+        "id": 211,
+        "name": "qwilfish",
+        "traduction": "Qwilfish",
+        "legendary": false
+    },
+    {
+        "id": 212,
+        "name": "scizor",
+        "traduction": "Cizayox",
+        "legendary": false
+    },
+    {
+        "id": 213,
+        "name": "shuckle",
+        "traduction": "Caratroc",
+        "legendary": false
+    },
+    {
+        "id": 214,
+        "name": "heracross",
+        "traduction": "Scarhino",
+        "legendary": false
+    },
+    {
+        "id": 215,
+        "name": "sneasel",
+        "traduction": "Farfuret",
+        "legendary": false
+    },
+    {
+        "id": 216,
+        "name": "teddiursa",
+        "traduction": "Teddiursa",
+        "legendary": false
+    },
+    {
+        "id": 217,
+        "name": "ursaring",
+        "traduction": "Ursaring",
+        "legendary": false
+    },
+    {
+        "id": 218,
+        "name": "slugma",
+        "traduction": "Limagma",
+        "legendary": false
+    },
+    {
+        "id": 219,
+        "name": "magcargo",
+        "traduction": "Volcaropod",
+        "legendary": false
+    },
+    {
+        "id": 220,
+        "name": "swinub",
+        "traduction": "Marcacrin",
+        "legendary": false
+    },
+    {
+        "id": 221,
+        "name": "piloswine",
+        "traduction": "Cochignon",
+        "legendary": false
+    },
+    {
+        "id": 222,
+        "name": "corsola",
+        "traduction": "Corayon",
+        "legendary": false
+    },
+    {
+        "id": 223,
+        "name": "remoraid",
+        "traduction": "Rémoraid",
+        "legendary": false
+    },
+    {
+        "id": 224,
+        "name": "octillery",
+        "traduction": "Octillery",
+        "legendary": false
+    },
+    {
+        "id": 225,
+        "name": "delibird",
+        "traduction": "Cadoizo",
+        "legendary": false
+    },
+    {
+        "id": 226,
+        "name": "mantine",
+        "traduction": "Démanta",
+        "legendary": false
+    },
+    {
+        "id": 227,
+        "name": "skarmory",
+        "traduction": "Airmure",
+        "legendary": false
+    },
+    {
+        "id": 228,
+        "name": "houndour",
+        "traduction": "Malosse",
+        "legendary": false
+    },
+    {
+        "id": 229,
+        "name": "houndoom",
+        "traduction": "Démolosse",
+        "legendary": false
+    },
+    {
+        "id": 230,
+        "name": "kingdra",
+        "traduction": "Hyporoi",
+        "legendary": false
+    },
+    {
+        "id": 231,
+        "name": "phanpy",
+        "traduction": "Phanpy",
+        "legendary": false
+    },
+    {
+        "id": 232,
+        "name": "donphan",
+        "traduction": "Donphan",
+        "legendary": false
+    },
+    {
+        "id": 233,
+        "name": "porygon2",
+        "traduction": "Porygon2",
+        "legendary": false
+    },
+    {
+        "id": 234,
+        "name": "stantler",
+        "traduction": "Cerfrousse",
+        "legendary": false
+    },
+    {
+        "id": 235,
+        "name": "smeargle",
+        "traduction": "Queulorior",
+        "legendary": false
+    },
+    {
+        "id": 236,
+        "name": "tyrogue",
+        "traduction": "Debugant",
+        "legendary": false
+    },
+    {
+        "id": 237,
+        "name": "hitmontop",
+        "traduction": "Kapoera",
+        "legendary": false
+    },
+    {
+        "id": 238,
+        "name": "smoochum",
+        "traduction": "Lippouti",
+        "legendary": false
+    },
+    {
+        "id": 239,
+        "name": "elekid",
+        "traduction": "Élekid",
+        "legendary": false
+    },
+    {
+        "id": 240,
+        "name": "magby",
+        "traduction": "Magby",
+        "legendary": false
+    },
+    {
+        "id": 241,
+        "name": "miltank",
+        "traduction": "Écrémeuh",
+        "legendary": false
+    },
+    {
+        "id": 242,
+        "name": "blissey",
+        "traduction": "Leuphorie",
+        "legendary": false
+    },
+    {
+        "id": 243,
+        "name": "raikou",
+        "traduction": "Raikou",
+        "legendary": true
+    },
+    {
+        "id": 244,
+        "name": "entei",
+        "traduction": "Entei",
+        "legendary": true
+    },
+    {
+        "id": 245,
+        "name": "suicune",
+        "traduction": "Suicune",
+        "legendary": true
+    },
+    {
+        "id": 246,
+        "name": "larvitar",
+        "traduction": "Embrylex",
+        "legendary": false
+    },
+    {
+        "id": 247,
+        "name": "pupitar",
+        "traduction": "Ymphect",
+        "legendary": false
+    },
+    {
+        "id": 248,
+        "name": "tyranitar",
+        "traduction": "Tyranocif",
+        "legendary": false
+    },
+    {
+        "id": 249,
+        "name": "lugia",
+        "traduction": "Lugia",
+        "legendary": true
+    },
+    {
+        "id": 250,
+        "name": "ho-oh",
+        "traduction": "Ho-Oh",
+        "legendary": true
+    },
+    {
+        "id": 251,
+        "name": "celebi",
+        "traduction": "Celebi",
+        "legendary": false
+    },
+    {
+        "id": 252,
+        "name": "treecko",
+        "traduction": "Arcko",
+        "legendary": false
+    },
+    {
+        "id": 253,
+        "name": "grovyle",
+        "traduction": "Massko",
+        "legendary": false
+    },
+    {
+        "id": 254,
+        "name": "sceptile",
+        "traduction": "Jungko",
+        "legendary": false
+    },
+    {
+        "id": 255,
+        "name": "torchic",
+        "traduction": "Poussifeu",
+        "legendary": false
+    },
+    {
+        "id": 256,
+        "name": "combusken",
+        "traduction": "Galifeu",
+        "legendary": false
+    },
+    {
+        "id": 257,
+        "name": "blaziken",
+        "traduction": "Braségali",
+        "legendary": false
+    },
+    {
+        "id": 258,
+        "name": "mudkip",
+        "traduction": "Gobou",
+        "legendary": false
+    },
+    {
+        "id": 259,
+        "name": "marshtomp",
+        "traduction": "Flobio",
+        "legendary": false
+    },
+    {
+        "id": 260,
+        "name": "swampert",
+        "traduction": "Laggron",
+        "legendary": false
+    },
+    {
+        "id": 261,
+        "name": "poochyena",
+        "traduction": "Medhyèna",
+        "legendary": false
+    },
+    {
+        "id": 262,
+        "name": "mightyena",
+        "traduction": "Grahyèna",
+        "legendary": false
+    },
+    {
+        "id": 263,
+        "name": "zigzagoon",
+        "traduction": "Zigzaton",
+        "legendary": false
+    },
+    {
+        "id": 264,
+        "name": "linoone",
+        "traduction": "Linéon",
+        "legendary": false
+    },
+    {
+        "id": 265,
+        "name": "wurmple",
+        "traduction": "Chenipotte",
+        "legendary": false
+    },
+    {
+        "id": 266,
+        "name": "silcoon",
+        "traduction": "Armulys",
+        "legendary": false
+    },
+    {
+        "id": 267,
+        "name": "beautifly",
+        "traduction": "Charmillon",
+        "legendary": false
+    },
+    {
+        "id": 268,
+        "name": "cascoon",
+        "traduction": "Blindalys",
+        "legendary": false
+    },
+    {
+        "id": 269,
+        "name": "dustox",
+        "traduction": "Papinox",
+        "legendary": false
+    },
+    {
+        "id": 270,
+        "name": "lotad",
+        "traduction": "Nénupiot",
+        "legendary": false
+    },
+    {
+        "id": 271,
+        "name": "lombre",
+        "traduction": "Lombre",
+        "legendary": false
+    },
+    {
+        "id": 272,
+        "name": "ludicolo",
+        "traduction": "Ludicolo",
+        "legendary": false
+    },
+    {
+        "id": 273,
+        "name": "seedot",
+        "traduction": "Grainipiot",
+        "legendary": false
+    },
+    {
+        "id": 274,
+        "name": "nuzleaf",
+        "traduction": "Pifeuil",
+        "legendary": false
+    },
+    {
+        "id": 275,
+        "name": "shiftry",
+        "traduction": "Tengalice",
+        "legendary": false
+    },
+    {
+        "id": 276,
+        "name": "taillow",
+        "traduction": "Nirondelle",
+        "legendary": false
+    },
+    {
+        "id": 277,
+        "name": "swellow",
+        "traduction": "Hélédelle",
+        "legendary": false
+    },
+    {
+        "id": 278,
+        "name": "wingull",
+        "traduction": "Goélise",
+        "legendary": false
+    },
+    {
+        "id": 279,
+        "name": "pelipper",
+        "traduction": "Bekipan",
+        "legendary": false
+    },
+    {
+        "id": 280,
+        "name": "ralts",
+        "traduction": "Tarsal",
+        "legendary": false
+    },
+    {
+        "id": 281,
+        "name": "kirlia",
+        "traduction": "Kirlia",
+        "legendary": false
+    },
+    {
+        "id": 282,
+        "name": "gardevoir",
+        "traduction": "Gardevoir",
+        "legendary": false
+    },
+    {
+        "id": 283,
+        "name": "surskit",
+        "traduction": "Arakdo",
+        "legendary": false
+    },
+    {
+        "id": 284,
+        "name": "masquerain",
+        "traduction": "Maskadra",
+        "legendary": false
+    },
+    {
+        "id": 285,
+        "name": "shroomish",
+        "traduction": "Balignon",
+        "legendary": false
+    },
+    {
+        "id": 286,
+        "name": "breloom",
+        "traduction": "Chapignon",
+        "legendary": false
+    },
+    {
+        "id": 287,
+        "name": "slakoth",
+        "traduction": "Parecool",
+        "legendary": false
+    },
+    {
+        "id": 288,
+        "name": "vigoroth",
+        "traduction": "Vigoroth",
+        "legendary": false
+    },
+    {
+        "id": 289,
+        "name": "slaking",
+        "traduction": "Monaflèmit",
+        "legendary": false
+    },
+    {
+        "id": 290,
+        "name": "nincada",
+        "traduction": "Ningale",
+        "legendary": false
+    },
+    {
+        "id": 291,
+        "name": "ninjask",
+        "traduction": "Ninjask",
+        "legendary": false
+    },
+    {
+        "id": 292,
+        "name": "shedinja",
+        "traduction": "Munja",
+        "legendary": false
+    },
+    {
+        "id": 293,
+        "name": "whismur",
+        "traduction": "Chuchmur",
+        "legendary": false
+    },
+    {
+        "id": 294,
+        "name": "loudred",
+        "traduction": "Ramboum",
+        "legendary": false
+    },
+    {
+        "id": 295,
+        "name": "exploud",
+        "traduction": "Brouhabam",
+        "legendary": false
+    },
+    {
+        "id": 296,
+        "name": "makuhita",
+        "traduction": "Makuhita",
+        "legendary": false
+    },
+    {
+        "id": 297,
+        "name": "hariyama",
+        "traduction": "Hariyama",
+        "legendary": false
+    },
+    {
+        "id": 298,
+        "name": "azurill",
+        "traduction": "Azurill",
+        "legendary": false
+    },
+    {
+        "id": 299,
+        "name": "nosepass",
+        "traduction": "Tarinor",
+        "legendary": false
+    },
+    {
+        "id": 300,
+        "name": "skitty",
+        "traduction": "Skitty",
+        "legendary": false
+    },
+    {
+        "id": 301,
+        "name": "delcatty",
+        "traduction": "Delcatty",
+        "legendary": false
+    },
+    {
+        "id": 302,
+        "name": "sableye",
+        "traduction": "Ténéfix",
+        "legendary": false
+    },
+    {
+        "id": 303,
+        "name": "mawile",
+        "traduction": "Mysdibule",
+        "legendary": false
+    },
+    {
+        "id": 304,
+        "name": "aron",
+        "traduction": "Galekid",
+        "legendary": false
+    },
+    {
+        "id": 305,
+        "name": "lairon",
+        "traduction": "Galegon",
+        "legendary": false
+    },
+    {
+        "id": 306,
+        "name": "aggron",
+        "traduction": "Galeking",
+        "legendary": false
+    },
+    {
+        "id": 307,
+        "name": "meditite",
+        "traduction": "Méditikka",
+        "legendary": false
+    },
+    {
+        "id": 308,
+        "name": "medicham",
+        "traduction": "Charmina",
+        "legendary": false
+    },
+    {
+        "id": 309,
+        "name": "electrike",
+        "traduction": "Dynavolt",
+        "legendary": false
+    },
+    {
+        "id": 310,
+        "name": "manectric",
+        "traduction": "Élecsprint",
+        "legendary": false
+    },
+    {
+        "id": 311,
+        "name": "plusle",
+        "traduction": "Posipi",
+        "legendary": false
+    },
+    {
+        "id": 312,
+        "name": "minun",
+        "traduction": "Négapi",
+        "legendary": false
+    },
+    {
+        "id": 313,
+        "name": "volbeat",
+        "traduction": "Muciole",
+        "legendary": false
+    },
+    {
+        "id": 314,
+        "name": "illumise",
+        "traduction": "Lumivole",
+        "legendary": false
+    },
+    {
+        "id": 315,
+        "name": "roselia",
+        "traduction": "Rosélia",
+        "legendary": false
+    },
+    {
+        "id": 316,
+        "name": "gulpin",
+        "traduction": "Gloupti",
+        "legendary": false
+    },
+    {
+        "id": 317,
+        "name": "swalot",
+        "traduction": "Avaltout",
+        "legendary": false
+    },
+    {
+        "id": 318,
+        "name": "carvanha",
+        "traduction": "Carvanha",
+        "legendary": false
+    },
+    {
+        "id": 319,
+        "name": "sharpedo",
+        "traduction": "Sharpedo",
+        "legendary": false
+    },
+    {
+        "id": 320,
+        "name": "wailmer",
+        "traduction": "Wailmer",
+        "legendary": false
+    },
+    {
+        "id": 321,
+        "name": "wailord",
+        "traduction": "Wailord",
+        "legendary": false
+    },
+    {
+        "id": 322,
+        "name": "numel",
+        "traduction": "Chamallot",
+        "legendary": false
+    },
+    {
+        "id": 323,
+        "name": "camerupt",
+        "traduction": "Camérupt",
+        "legendary": false
+    },
+    {
+        "id": 324,
+        "name": "torkoal",
+        "traduction": "Chartor",
+        "legendary": false
+    },
+    {
+        "id": 325,
+        "name": "spoink",
+        "traduction": "Spoink",
+        "legendary": false
+    },
+    {
+        "id": 326,
+        "name": "grumpig",
+        "traduction": "Groret",
+        "legendary": false
+    },
+    {
+        "id": 327,
+        "name": "spinda",
+        "traduction": "Spinda",
+        "legendary": false
+    },
+    {
+        "id": 328,
+        "name": "trapinch",
+        "traduction": "Kraknoix",
+        "legendary": false
+    },
+    {
+        "id": 329,
+        "name": "vibrava",
+        "traduction": "Vibraninf",
+        "legendary": false
+    },
+    {
+        "id": 330,
+        "name": "flygon",
+        "traduction": "Libégon",
+        "legendary": false
+    },
+    {
+        "id": 331,
+        "name": "cacnea",
+        "traduction": "Cacnea",
+        "legendary": false
+    },
+    {
+        "id": 332,
+        "name": "cacturne",
+        "traduction": "Cacturne",
+        "legendary": false
+    },
+    {
+        "id": 333,
+        "name": "swablu",
+        "traduction": "Tylton",
+        "legendary": false
+    },
+    {
+        "id": 334,
+        "name": "altaria",
+        "traduction": "Altaria",
+        "legendary": false
+    },
+    {
+        "id": 335,
+        "name": "zangoose",
+        "traduction": "Mangriff",
+        "legendary": false
+    },
+    {
+        "id": 336,
+        "name": "seviper",
+        "traduction": "Séviper",
+        "legendary": false
+    },
+    {
+        "id": 337,
+        "name": "lunatone",
+        "traduction": "Séléroc",
+        "legendary": false
+    },
+    {
+        "id": 338,
+        "name": "solrock",
+        "traduction": "Solaroc",
+        "legendary": false
+    },
+    {
+        "id": 339,
+        "name": "barboach",
+        "traduction": "Barloche",
+        "legendary": false
+    },
+    {
+        "id": 340,
+        "name": "whiscash",
+        "traduction": "Barbicha",
+        "legendary": false
+    },
+    {
+        "id": 341,
+        "name": "corphish",
+        "traduction": "Écrapince",
+        "legendary": false
+    },
+    {
+        "id": 342,
+        "name": "crawdaunt",
+        "traduction": "Colhomard",
+        "legendary": false
+    },
+    {
+        "id": 343,
+        "name": "baltoy",
+        "traduction": "Balbuto",
+        "legendary": false
+    },
+    {
+        "id": 344,
+        "name": "claydol",
+        "traduction": "Kaorine",
+        "legendary": false
+    },
+    {
+        "id": 345,
+        "name": "lileep",
+        "traduction": "Lilia",
+        "legendary": false
+    },
+    {
+        "id": 346,
+        "name": "cradily",
+        "traduction": "Vacilys",
+        "legendary": false
+    },
+    {
+        "id": 347,
+        "name": "anorith",
+        "traduction": "Anorith",
+        "legendary": false
+    },
+    {
+        "id": 348,
+        "name": "armaldo",
+        "traduction": "Armaldo",
+        "legendary": false
+    },
+    {
+        "id": 349,
+        "name": "feebas",
+        "traduction": "Barpau",
+        "legendary": false
+    },
+    {
+        "id": 350,
+        "name": "milotic",
+        "traduction": "Milobellus",
+        "legendary": false
+    },
+    {
+        "id": 351,
+        "name": "castform",
+        "traduction": "Morphéo",
+        "legendary": false
+    },
+    {
+        "id": 352,
+        "name": "kecleon",
+        "traduction": "Kecleon",
+        "legendary": false
+    },
+    {
+        "id": 353,
+        "name": "shuppet",
+        "traduction": "Polichombr",
+        "legendary": false
+    },
+    {
+        "id": 354,
+        "name": "banette",
+        "traduction": "Branette",
+        "legendary": false
+    },
+    {
+        "id": 355,
+        "name": "duskull",
+        "traduction": "Skelénox",
+        "legendary": false
+    },
+    {
+        "id": 356,
+        "name": "dusclops",
+        "traduction": "Téraclope",
+        "legendary": false
+    },
+    {
+        "id": 357,
+        "name": "tropius",
+        "traduction": "Tropius",
+        "legendary": false
+    },
+    {
+        "id": 358,
+        "name": "chimecho",
+        "traduction": "Éoko",
+        "legendary": false
+    },
+    {
+        "id": 359,
+        "name": "absol",
+        "traduction": "Absol",
+        "legendary": false
+    },
+    {
+        "id": 360,
+        "name": "wynaut",
+        "traduction": "Okéoké",
+        "legendary": false
+    },
+    {
+        "id": 361,
+        "name": "snorunt",
+        "traduction": "Stalgamin",
+        "legendary": false
+    },
+    {
+        "id": 362,
+        "name": "glalie",
+        "traduction": "Oniglali",
+        "legendary": false
+    },
+    {
+        "id": 363,
+        "name": "spheal",
+        "traduction": "Obalie",
+        "legendary": false
+    },
+    {
+        "id": 364,
+        "name": "sealeo",
+        "traduction": "Phogleur",
+        "legendary": false
+    },
+    {
+        "id": 365,
+        "name": "walrein",
+        "traduction": "Kaimorse",
+        "legendary": false
+    },
+    {
+        "id": 366,
+        "name": "clamperl",
+        "traduction": "Coquiperl",
+        "legendary": false
+    },
+    {
+        "id": 367,
+        "name": "huntail",
+        "traduction": "Serpang",
+        "legendary": false
+    },
+    {
+        "id": 368,
+        "name": "gorebyss",
+        "traduction": "Rosabyss",
+        "legendary": false
+    },
+    {
+        "id": 369,
+        "name": "relicanth",
+        "traduction": "Relicanth",
+        "legendary": false
+    },
+    {
+        "id": 370,
+        "name": "luvdisc",
+        "traduction": "Lovdisc",
+        "legendary": false
+    },
+    {
+        "id": 371,
+        "name": "bagon",
+        "traduction": "Draby",
+        "legendary": false
+    },
+    {
+        "id": 372,
+        "name": "shelgon",
+        "traduction": "Drackhaus",
+        "legendary": false
+    },
+    {
+        "id": 373,
+        "name": "salamence",
+        "traduction": "Drattak",
+        "legendary": false
+    },
+    {
+        "id": 374,
+        "name": "beldum",
+        "traduction": "Terhal",
+        "legendary": false
+    },
+    {
+        "id": 375,
+        "name": "metang",
+        "traduction": "Métang",
+        "legendary": false
+    },
+    {
+        "id": 376,
+        "name": "metagross",
+        "traduction": "Métalosse",
+        "legendary": false
+    },
+    {
+        "id": 377,
+        "name": "regirock",
+        "traduction": "Regirock",
+        "legendary": true
+    },
+    {
+        "id": 378,
+        "name": "regice",
+        "traduction": "Regice",
+        "legendary": true
+    },
+    {
+        "id": 379,
+        "name": "registeel",
+        "traduction": "Registeel",
+        "legendary": true
+    },
+    {
+        "id": 380,
+        "name": "latias",
+        "traduction": "Latias",
+        "legendary": true
+    },
+    {
+        "id": 381,
+        "name": "latios",
+        "traduction": "Latios",
+        "legendary": true
+    },
+    {
+        "id": 382,
+        "name": "kyogre",
+        "traduction": "Kyogre",
+        "legendary": true
+    },
+    {
+        "id": 383,
+        "name": "groudon",
+        "traduction": "Groudon",
+        "legendary": true
+    },
+    {
+        "id": 384,
+        "name": "rayquaza",
+        "traduction": "Rayquaza",
+        "legendary": true
+    },
+    {
+        "id": 385,
+        "name": "jirachi",
+        "traduction": "Jirachi",
+        "legendary": false
+    },
+    {
+        "id": 386,
+        "name": "deoxys-normal",
+        "traduction": "Deoxys",
+        "legendary": false
+    },
+    {
+        "id": 387,
+        "name": "turtwig",
+        "traduction": "Tortipouss",
+        "legendary": false
+    },
+    {
+        "id": 388,
+        "name": "grotle",
+        "traduction": "Boskara",
+        "legendary": false
+    },
+    {
+        "id": 389,
+        "name": "torterra",
+        "traduction": "Torterra",
+        "legendary": false
+    },
+    {
+        "id": 390,
+        "name": "chimchar",
+        "traduction": "Ouisticram",
+        "legendary": false
+    },
+    {
+        "id": 391,
+        "name": "monferno",
+        "traduction": "Chimpenfeu",
+        "legendary": false
+    },
+    {
+        "id": 392,
+        "name": "infernape",
+        "traduction": "Simiabraz",
+        "legendary": false
+    },
+    {
+        "id": 393,
+        "name": "piplup",
+        "traduction": "Tiplouf",
+        "legendary": false
+    },
+    {
+        "id": 394,
+        "name": "prinplup",
+        "traduction": "Prinplouf",
+        "legendary": false
+    },
+    {
+        "id": 395,
+        "name": "empoleon",
+        "traduction": "Pingoléon",
+        "legendary": false
+    },
+    {
+        "id": 396,
+        "name": "starly",
+        "traduction": "Étourmi",
+        "legendary": false
+    },
+    {
+        "id": 397,
+        "name": "staravia",
+        "traduction": "Étourvol",
+        "legendary": false
+    },
+    {
+        "id": 398,
+        "name": "staraptor",
+        "traduction": "Étouraptor",
+        "legendary": false
+    },
+    {
+        "id": 399,
+        "name": "bidoof",
+        "traduction": "Keunotor",
+        "legendary": false
+    },
+    {
+        "id": 400,
+        "name": "bibarel",
+        "traduction": "Castorno",
+        "legendary": false
+    },
+    {
+        "id": 401,
+        "name": "kricketot",
+        "traduction": "Crikzik",
+        "legendary": false
+    },
+    {
+        "id": 402,
+        "name": "kricketune",
+        "traduction": "Mélokrik",
+        "legendary": false
+    },
+    {
+        "id": 403,
+        "name": "shinx",
+        "traduction": "Lixy",
+        "legendary": false
+    },
+    {
+        "id": 404,
+        "name": "luxio",
+        "traduction": "Luxio",
+        "legendary": false
+    },
+    {
+        "id": 405,
+        "name": "luxray",
+        "traduction": "Luxray",
+        "legendary": false
+    },
+    {
+        "id": 406,
+        "name": "budew",
+        "traduction": "Rozbouton",
+        "legendary": false
+    },
+    {
+        "id": 407,
+        "name": "roserade",
+        "traduction": "Roserade",
+        "legendary": false
+    },
+    {
+        "id": 408,
+        "name": "cranidos",
+        "traduction": "Kranidos",
+        "legendary": false
+    },
+    {
+        "id": 409,
+        "name": "rampardos",
+        "traduction": "Charkos",
+        "legendary": false
+    },
+    {
+        "id": 410,
+        "name": "shieldon",
+        "traduction": "Dinoclier",
+        "legendary": false
+    },
+    {
+        "id": 411,
+        "name": "bastiodon",
+        "traduction": "Bastiodon",
+        "legendary": false
+    },
+    {
+        "id": 412,
+        "name": "burmy",
+        "traduction": "Cheniti",
+        "legendary": false
+    },
+    {
+        "id": 413,
+        "name": "wormadam-plant",
+        "traduction": "Cheniselle",
+        "legendary": false
+    },
+    {
+        "id": 414,
+        "name": "mothim",
+        "traduction": "Papilord",
+        "legendary": false
+    },
+    {
+        "id": 415,
+        "name": "combee",
+        "traduction": "Apitrini",
+        "legendary": false
+    },
+    {
+        "id": 416,
+        "name": "vespiquen",
+        "traduction": "Apireine",
+        "legendary": false
+    },
+    {
+        "id": 417,
+        "name": "pachirisu",
+        "traduction": "Pachirisu",
+        "legendary": false
+    },
+    {
+        "id": 418,
+        "name": "buizel",
+        "traduction": "Mustébouée",
+        "legendary": false
+    },
+    {
+        "id": 419,
+        "name": "floatzel",
+        "traduction": "Mustéflott",
+        "legendary": false
+    },
+    {
+        "id": 420,
+        "name": "cherubi",
+        "traduction": "Ceribou",
+        "legendary": false
+    },
+    {
+        "id": 421,
+        "name": "cherrim",
+        "traduction": "Ceriflor",
+        "legendary": false
+    },
+    {
+        "id": 422,
+        "name": "shellos",
+        "traduction": "Sancoki",
+        "legendary": false
+    },
+    {
+        "id": 423,
+        "name": "gastrodon",
+        "traduction": "Tritosor",
+        "legendary": false
+    },
+    {
+        "id": 424,
+        "name": "ambipom",
+        "traduction": "Capidextre",
+        "legendary": false
+    },
+    {
+        "id": 425,
+        "name": "drifloon",
+        "traduction": "Baudrive",
+        "legendary": false
+    },
+    {
+        "id": 426,
+        "name": "drifblim",
+        "traduction": "Grodrive",
+        "legendary": false
+    },
+    {
+        "id": 427,
+        "name": "buneary",
+        "traduction": "Laporeille",
+        "legendary": false
+    },
+    {
+        "id": 428,
+        "name": "lopunny",
+        "traduction": "Lockpin",
+        "legendary": false
+    },
+    {
+        "id": 429,
+        "name": "mismagius",
+        "traduction": "Magirêve",
+        "legendary": false
+    },
+    {
+        "id": 430,
+        "name": "honchkrow",
+        "traduction": "Corboss",
+        "legendary": false
+    },
+    {
+        "id": 431,
+        "name": "glameow",
+        "traduction": "Chaglam",
+        "legendary": false
+    },
+    {
+        "id": 432,
+        "name": "purugly",
+        "traduction": "Chaffreux",
+        "legendary": false
+    },
+    {
+        "id": 433,
+        "name": "chingling",
+        "traduction": "Korillon",
+        "legendary": false
+    },
+    {
+        "id": 434,
+        "name": "stunky",
+        "traduction": "Moufouette",
+        "legendary": false
+    },
+    {
+        "id": 435,
+        "name": "skuntank",
+        "traduction": "Moufflair",
+        "legendary": false
+    },
+    {
+        "id": 436,
+        "name": "bronzor",
+        "traduction": "Archéomire",
+        "legendary": false
+    },
+    {
+        "id": 437,
+        "name": "bronzong",
+        "traduction": "Archéodong",
+        "legendary": false
+    },
+    {
+        "id": 438,
+        "name": "bonsly",
+        "traduction": "Manzaï",
+        "legendary": false
+    },
+    {
+        "id": 439,
+        "name": "mime-jr",
+        "traduction": "Mime Jr.",
+        "legendary": false
+    },
+    {
+        "id": 440,
+        "name": "happiny",
+        "traduction": "Ptiravi",
+        "legendary": false
+    },
+    {
+        "id": 441,
+        "name": "chatot",
+        "traduction": "Pijako",
+        "legendary": false
+    },
+    {
+        "id": 442,
+        "name": "spiritomb",
+        "traduction": "Spiritomb",
+        "legendary": false
+    },
+    {
+        "id": 443,
+        "name": "gible",
+        "traduction": "Griknot",
+        "legendary": false
+    },
+    {
+        "id": 444,
+        "name": "gabite",
+        "traduction": "Carmache",
+        "legendary": false
+    },
+    {
+        "id": 445,
+        "name": "garchomp",
+        "traduction": "Carchacrok",
+        "legendary": false
+    },
+    {
+        "id": 446,
+        "name": "munchlax",
+        "traduction": "Goinfrex",
+        "legendary": false
+    },
+    {
+        "id": 447,
+        "name": "riolu",
+        "traduction": "Riolu",
+        "legendary": false
+    },
+    {
+        "id": 448,
+        "name": "lucario",
+        "traduction": "Lucario",
+        "legendary": false
+    },
+    {
+        "id": 449,
+        "name": "hippopotas",
+        "traduction": "Hippopotas",
+        "legendary": false
+    },
+    {
+        "id": 450,
+        "name": "hippowdon",
+        "traduction": "Hippodocus",
+        "legendary": false
+    },
+    {
+        "id": 451,
+        "name": "skorupi",
+        "traduction": "Rapion",
+        "legendary": false
+    },
+    {
+        "id": 452,
+        "name": "drapion",
+        "traduction": "Drascore",
+        "legendary": false
+    },
+    {
+        "id": 453,
+        "name": "croagunk",
+        "traduction": "Cradopaud",
+        "legendary": false
+    },
+    {
+        "id": 454,
+        "name": "toxicroak",
+        "traduction": "Coatox",
+        "legendary": false
+    },
+    {
+        "id": 455,
+        "name": "carnivine",
+        "traduction": "Vortente",
+        "legendary": false
+    },
+    {
+        "id": 456,
+        "name": "finneon",
+        "traduction": "Écayon",
+        "legendary": false
+    },
+    {
+        "id": 457,
+        "name": "lumineon",
+        "traduction": "Luminéon",
+        "legendary": false
+    },
+    {
+        "id": 458,
+        "name": "mantyke",
+        "traduction": "Babimanta",
+        "legendary": false
+    },
+    {
+        "id": 459,
+        "name": "snover",
+        "traduction": "Blizzi",
+        "legendary": false
+    },
+    {
+        "id": 460,
+        "name": "abomasnow",
+        "traduction": "Blizzaroi",
+        "legendary": false
+    },
+    {
+        "id": 461,
+        "name": "weavile",
+        "traduction": "Dimoret",
+        "legendary": false
+    },
+    {
+        "id": 462,
+        "name": "magnezone",
+        "traduction": "Magnézone",
+        "legendary": false
+    },
+    {
+        "id": 463,
+        "name": "lickilicky",
+        "traduction": "Coudlangue",
+        "legendary": false
+    },
+    {
+        "id": 464,
+        "name": "rhyperior",
+        "traduction": "Rhinastoc",
+        "legendary": false
+    },
+    {
+        "id": 465,
+        "name": "tangrowth",
+        "traduction": "Bouldeneu",
+        "legendary": false
+    },
+    {
+        "id": 466,
+        "name": "electivire",
+        "traduction": "Élekable",
+        "legendary": false
+    },
+    {
+        "id": 467,
+        "name": "magmortar",
+        "traduction": "Maganon",
+        "legendary": false
+    },
+    {
+        "id": 468,
+        "name": "togekiss",
+        "traduction": "Togekiss",
+        "legendary": false
+    },
+    {
+        "id": 469,
+        "name": "yanmega",
+        "traduction": "Yanmega",
+        "legendary": false
+    },
+    {
+        "id": 470,
+        "name": "leafeon",
+        "traduction": "Phyllali",
+        "legendary": false
+    },
+    {
+        "id": 471,
+        "name": "glaceon",
+        "traduction": "Givrali",
+        "legendary": false
+    },
+    {
+        "id": 472,
+        "name": "gliscor",
+        "traduction": "Scorvol",
+        "legendary": false
+    },
+    {
+        "id": 473,
+        "name": "mamoswine",
+        "traduction": "Mammochon",
+        "legendary": false
+    },
+    {
+        "id": 474,
+        "name": "porygon-z",
+        "traduction": "Porygon-Z",
+        "legendary": false
+    },
+    {
+        "id": 475,
+        "name": "gallade",
+        "traduction": "Gallame",
+        "legendary": false
+    },
+    {
+        "id": 476,
+        "name": "probopass",
+        "traduction": "Tarinorme",
+        "legendary": false
+    },
+    {
+        "id": 477,
+        "name": "dusknoir",
+        "traduction": "Noctunoir",
+        "legendary": false
+    },
+    {
+        "id": 478,
+        "name": "froslass",
+        "traduction": "Momartik",
+        "legendary": false
+    },
+    {
+        "id": 479,
+        "name": "rotom",
+        "traduction": "Motisma",
+        "legendary": false
+    },
+    {
+        "id": 480,
+        "name": "uxie",
+        "traduction": "Créhelf",
+        "legendary": true
+    },
+    {
+        "id": 481,
+        "name": "mesprit",
+        "traduction": "Créfollet",
+        "legendary": true
+    },
+    {
+        "id": 482,
+        "name": "azelf",
+        "traduction": "Créfadet",
+        "legendary": true
+    },
+    {
+        "id": 483,
+        "name": "dialga",
+        "traduction": "Dialga",
+        "legendary": true
+    },
+    {
+        "id": 484,
+        "name": "palkia",
+        "traduction": "Palkia",
+        "legendary": true
+    },
+    {
+        "id": 485,
+        "name": "heatran",
+        "traduction": "Heatran",
+        "legendary": true
+    },
+    {
+        "id": 486,
+        "name": "regigigas",
+        "traduction": "Regigigas",
+        "legendary": true
+    },
+    {
+        "id": 487,
+        "name": "giratina-altered",
+        "traduction": "Giratina",
+        "legendary": true
+    },
+    {
+        "id": 488,
+        "name": "cresselia",
+        "traduction": "Cresselia",
+        "legendary": true
+    },
+    {
+        "id": 489,
+        "name": "phione",
+        "traduction": "Phione",
+        "legendary": false
+    },
+    {
+        "id": 490,
+        "name": "manaphy",
+        "traduction": "Manaphy",
+        "legendary": false
+    },
+    {
+        "id": 491,
+        "name": "darkrai",
+        "traduction": "Darkrai",
+        "legendary": false
+    },
+    {
+        "id": 492,
+        "name": "shaymin-land",
+        "traduction": "Shaymin",
+        "legendary": false
+    },
+    {
+        "id": 493,
+        "name": "arceus",
+        "traduction": "Arceus",
+        "legendary": false
+    },
+    {
+        "id": 494,
+        "name": "victini",
+        "traduction": "Victini",
+        "legendary": false
+    },
+    {
+        "id": 495,
+        "name": "snivy",
+        "traduction": "Vipélierre",
+        "legendary": false
+    },
+    {
+        "id": 496,
+        "name": "servine",
+        "traduction": "Lianaja",
+        "legendary": false
+    },
+    {
+        "id": 497,
+        "name": "serperior",
+        "traduction": "Majaspic",
+        "legendary": false
+    },
+    {
+        "id": 498,
+        "name": "tepig",
+        "traduction": "Gruikui",
+        "legendary": false
+    },
+    {
+        "id": 499,
+        "name": "pignite",
+        "traduction": "Grotichon",
+        "legendary": false
+    },
+    {
+        "id": 500,
+        "name": "emboar",
+        "traduction": "Roitiflam",
+        "legendary": false
+    },
+    {
+        "id": 501,
+        "name": "oshawott",
+        "traduction": "Moustillon",
+        "legendary": false
+    },
+    {
+        "id": 502,
+        "name": "dewott",
+        "traduction": "Mateloutre",
+        "legendary": false
+    },
+    {
+        "id": 503,
+        "name": "samurott",
+        "traduction": "Clamiral",
+        "legendary": false
+    },
+    {
+        "id": 504,
+        "name": "patrat",
+        "traduction": "Ratentif",
+        "legendary": false
+    },
+    {
+        "id": 505,
+        "name": "watchog",
+        "traduction": "Miradar",
+        "legendary": false
+    },
+    {
+        "id": 506,
+        "name": "lillipup",
+        "traduction": "Ponchiot",
+        "legendary": false
+    },
+    {
+        "id": 507,
+        "name": "herdier",
+        "traduction": "Ponchien",
+        "legendary": false
+    },
+    {
+        "id": 508,
+        "name": "stoutland",
+        "traduction": "Mastouffe",
+        "legendary": false
+    },
+    {
+        "id": 509,
+        "name": "purrloin",
+        "traduction": "Chacripan",
+        "legendary": false
+    },
+    {
+        "id": 510,
+        "name": "liepard",
+        "traduction": "Léopardus",
+        "legendary": false
+    },
+    {
+        "id": 511,
+        "name": "pansage",
+        "traduction": "Feuillajou",
+        "legendary": false
+    },
+    {
+        "id": 512,
+        "name": "simisage",
+        "traduction": "Feuiloutan",
+        "legendary": false
+    },
+    {
+        "id": 513,
+        "name": "pansear",
+        "traduction": "Flamajou",
+        "legendary": false
+    },
+    {
+        "id": 514,
+        "name": "simisear",
+        "traduction": "Flamoutan",
+        "legendary": false
+    },
+    {
+        "id": 515,
+        "name": "panpour",
+        "traduction": "Flotajou",
+        "legendary": false
+    },
+    {
+        "id": 516,
+        "name": "simipour",
+        "traduction": "Flotoutan",
+        "legendary": false
+    },
+    {
+        "id": 517,
+        "name": "munna",
+        "traduction": "Munna",
+        "legendary": false
+    },
+    {
+        "id": 518,
+        "name": "musharna",
+        "traduction": "Mushana",
+        "legendary": false
+    },
+    {
+        "id": 519,
+        "name": "pidove",
+        "traduction": "Poichigeon",
+        "legendary": false
+    },
+    {
+        "id": 520,
+        "name": "tranquill",
+        "traduction": "Colombeau",
+        "legendary": false
+    },
+    {
+        "id": 521,
+        "name": "unfezant",
+        "traduction": "Déflaisan",
+        "legendary": false
+    },
+    {
+        "id": 522,
+        "name": "blitzle",
+        "traduction": "Zébibron",
+        "legendary": false
+    },
+    {
+        "id": 523,
+        "name": "zebstrika",
+        "traduction": "Zéblitz",
+        "legendary": false
+    },
+    {
+        "id": 524,
+        "name": "roggenrola",
+        "traduction": "Nodulithe",
+        "legendary": false
+    },
+    {
+        "id": 525,
+        "name": "boldore",
+        "traduction": "Géolithe",
+        "legendary": false
+    },
+    {
+        "id": 526,
+        "name": "gigalith",
+        "traduction": "Gigalithe",
+        "legendary": false
+    },
+    {
+        "id": 527,
+        "name": "woobat",
+        "traduction": "Chovsourir",
+        "legendary": false
+    },
+    {
+        "id": 528,
+        "name": "swoobat",
+        "traduction": "Rhinolove",
+        "legendary": false
+    },
+    {
+        "id": 529,
+        "name": "drilbur",
+        "traduction": "Rototaupe",
+        "legendary": false
+    },
+    {
+        "id": 530,
+        "name": "excadrill",
+        "traduction": "Minotaupe",
+        "legendary": false
+    },
+    {
+        "id": 531,
+        "name": "audino",
+        "traduction": "Nanméouïe",
+        "legendary": false
+    },
+    {
+        "id": 532,
+        "name": "timburr",
+        "traduction": "Charpenti",
+        "legendary": false
+    },
+    {
+        "id": 533,
+        "name": "gurdurr",
+        "traduction": "Ouvrifier",
+        "legendary": false
+    },
+    {
+        "id": 534,
+        "name": "conkeldurr",
+        "traduction": "Bétochef",
+        "legendary": false
+    },
+    {
+        "id": 535,
+        "name": "tympole",
+        "traduction": "Tritonde",
+        "legendary": false
+    },
+    {
+        "id": 536,
+        "name": "palpitoad",
+        "traduction": "Batracné",
+        "legendary": false
+    },
+    {
+        "id": 537,
+        "name": "seismitoad",
+        "traduction": "Crapustule",
+        "legendary": false
+    },
+    {
+        "id": 538,
+        "name": "throh",
+        "traduction": "Judokrak",
+        "legendary": false
+    },
+    {
+        "id": 539,
+        "name": "sawk",
+        "traduction": "Karaclée",
+        "legendary": false
+    },
+    {
+        "id": 540,
+        "name": "sewaddle",
+        "traduction": "Larveyette",
+        "legendary": false
+    },
+    {
+        "id": 541,
+        "name": "swadloon",
+        "traduction": "Couverdure",
+        "legendary": false
+    },
+    {
+        "id": 542,
+        "name": "leavanny",
+        "traduction": "Manternel",
+        "legendary": false
+    },
+    {
+        "id": 543,
+        "name": "venipede",
+        "traduction": "Venipatte",
+        "legendary": false
+    },
+    {
+        "id": 544,
+        "name": "whirlipede",
+        "traduction": "Scobolide",
+        "legendary": false
+    },
+    {
+        "id": 545,
+        "name": "scolipede",
+        "traduction": "Brutapode",
+        "legendary": false
+    },
+    {
+        "id": 546,
+        "name": "cottonee",
+        "traduction": "Doudouvet",
+        "legendary": false
+    },
+    {
+        "id": 547,
+        "name": "whimsicott",
+        "traduction": "Farfaduvet",
+        "legendary": false
+    },
+    {
+        "id": 548,
+        "name": "petilil",
+        "traduction": "Chlorobule",
+        "legendary": false
+    },
+    {
+        "id": 549,
+        "name": "lilligant",
+        "traduction": "Fragilady",
+        "legendary": false
+    },
+    {
+        "id": 550,
+        "name": "basculin-red-striped",
+        "traduction": "Bargantua",
+        "legendary": false
+    },
+    {
+        "id": 551,
+        "name": "sandile",
+        "traduction": "Mascaïman",
+        "legendary": false
+    },
+    {
+        "id": 552,
+        "name": "krokorok",
+        "traduction": "Escroco",
+        "legendary": false
+    },
+    {
+        "id": 553,
+        "name": "krookodile",
+        "traduction": "Crocorible",
+        "legendary": false
+    },
+    {
+        "id": 554,
+        "name": "darumaka",
+        "traduction": "Darumarond",
+        "legendary": false
+    },
+    {
+        "id": 555,
+        "name": "darmanitan-standard",
+        "traduction": "Darumacho",
+        "legendary": false
+    },
+    {
+        "id": 556,
+        "name": "maractus",
+        "traduction": "Maracachi",
+        "legendary": false
+    },
+    {
+        "id": 557,
+        "name": "dwebble",
+        "traduction": "Crabicoque",
+        "legendary": false
+    },
+    {
+        "id": 558,
+        "name": "crustle",
+        "traduction": "Crabaraque",
+        "legendary": false
+    },
+    {
+        "id": 559,
+        "name": "scraggy",
+        "traduction": "Baggiguane",
+        "legendary": false
+    },
+    {
+        "id": 560,
+        "name": "scrafty",
+        "traduction": "Baggaïd",
+        "legendary": false
+    },
+    {
+        "id": 561,
+        "name": "sigilyph",
+        "traduction": "Cryptéro",
+        "legendary": false
+    },
+    {
+        "id": 562,
+        "name": "yamask",
+        "traduction": "Tutafeh",
+        "legendary": false
+    },
+    {
+        "id": 563,
+        "name": "cofagrigus",
+        "traduction": "Tutankafer",
+        "legendary": false
+    },
+    {
+        "id": 564,
+        "name": "tirtouga",
+        "traduction": "Carapagos",
+        "legendary": false
+    },
+    {
+        "id": 565,
+        "name": "carracosta",
+        "traduction": "Mégapagos",
+        "legendary": false
+    },
+    {
+        "id": 566,
+        "name": "archen",
+        "traduction": "Arkéapti",
+        "legendary": false
+    },
+    {
+        "id": 567,
+        "name": "archeops",
+        "traduction": "Aéroptéryx",
+        "legendary": false
+    },
+    {
+        "id": 568,
+        "name": "trubbish",
+        "traduction": "Miamiasme",
+        "legendary": false
+    },
+    {
+        "id": 569,
+        "name": "garbodor",
+        "traduction": "Miasmax",
+        "legendary": false
+    },
+    {
+        "id": 570,
+        "name": "zorua",
+        "traduction": "Zorua",
+        "legendary": false
+    },
+    {
+        "id": 571,
+        "name": "zoroark",
+        "traduction": "Zoroark",
+        "legendary": false
+    },
+    {
+        "id": 572,
+        "name": "minccino",
+        "traduction": "Chinchidou",
+        "legendary": false
+    },
+    {
+        "id": 573,
+        "name": "cinccino",
+        "traduction": "Pashmilla",
+        "legendary": false
+    },
+    {
+        "id": 574,
+        "name": "gothita",
+        "traduction": "Scrutella",
+        "legendary": false
+    },
+    {
+        "id": 575,
+        "name": "gothorita",
+        "traduction": "Mesmérella",
+        "legendary": false
+    },
+    {
+        "id": 576,
+        "name": "gothitelle",
+        "traduction": "Sidérella",
+        "legendary": false
+    },
+    {
+        "id": 577,
+        "name": "solosis",
+        "traduction": "Nucléos",
+        "legendary": false
+    },
+    {
+        "id": 578,
+        "name": "duosion",
+        "traduction": "Méios",
+        "legendary": false
+    },
+    {
+        "id": 579,
+        "name": "reuniclus",
+        "traduction": "Symbios",
+        "legendary": false
+    },
+    {
+        "id": 580,
+        "name": "ducklett",
+        "traduction": "Couaneton",
+        "legendary": false
+    },
+    {
+        "id": 581,
+        "name": "swanna",
+        "traduction": "Lakmécygne",
+        "legendary": false
+    },
+    {
+        "id": 582,
+        "name": "vanillite",
+        "traduction": "Sorbébé",
+        "legendary": false
+    },
+    {
+        "id": 583,
+        "name": "vanillish",
+        "traduction": "Sorboul",
+        "legendary": false
+    },
+    {
+        "id": 584,
+        "name": "vanilluxe",
+        "traduction": "Sorbouboul",
+        "legendary": false
+    },
+    {
+        "id": 585,
+        "name": "deerling",
+        "traduction": "Vivaldaim",
+        "legendary": false
+    },
+    {
+        "id": 586,
+        "name": "sawsbuck",
+        "traduction": "Haydaim",
+        "legendary": false
+    },
+    {
+        "id": 587,
+        "name": "emolga",
+        "traduction": "Emolga",
+        "legendary": false
+    },
+    {
+        "id": 588,
+        "name": "karrablast",
+        "traduction": "Carabing",
+        "legendary": false
+    },
+    {
+        "id": 589,
+        "name": "escavalier",
+        "traduction": "Lançargot",
+        "legendary": false
+    },
+    {
+        "id": 590,
+        "name": "foongus",
+        "traduction": "Trompignon",
+        "legendary": false
+    },
+    {
+        "id": 591,
+        "name": "amoonguss",
+        "traduction": "Gaulet",
+        "legendary": false
+    },
+    {
+        "id": 592,
+        "name": "frillish",
+        "traduction": "Viskuse",
+        "legendary": false
+    },
+    {
+        "id": 593,
+        "name": "jellicent",
+        "traduction": "Moyade",
+        "legendary": false
+    },
+    {
+        "id": 594,
+        "name": "alomomola",
+        "traduction": "Mamanbo",
+        "legendary": false
+    },
+    {
+        "id": 595,
+        "name": "joltik",
+        "traduction": "Statitik",
+        "legendary": false
+    },
+    {
+        "id": 596,
+        "name": "galvantula",
+        "traduction": "Mygavolt",
+        "legendary": false
+    },
+    {
+        "id": 597,
+        "name": "ferroseed",
+        "traduction": "Grindur",
+        "legendary": false
+    },
+    {
+        "id": 598,
+        "name": "ferrothorn",
+        "traduction": "Noacier",
+        "legendary": false
+    },
+    {
+        "id": 599,
+        "name": "klink",
+        "traduction": "Tic",
+        "legendary": false
+    },
+    {
+        "id": 600,
+        "name": "klang",
+        "traduction": "Clic",
+        "legendary": false
+    },
+    {
+        "id": 601,
+        "name": "klinklang",
+        "traduction": "Cliticlic",
+        "legendary": false
+    },
+    {
+        "id": 602,
+        "name": "tynamo",
+        "traduction": "Anchwatt",
+        "legendary": false
+    },
+    {
+        "id": 603,
+        "name": "eelektrik",
+        "traduction": "Lampéroie",
+        "legendary": false
+    },
+    {
+        "id": 604,
+        "name": "eelektross",
+        "traduction": "Ohmassacre",
+        "legendary": false
+    },
+    {
+        "id": 605,
+        "name": "elgyem",
+        "traduction": "Lewsor",
+        "legendary": false
+    },
+    {
+        "id": 606,
+        "name": "beheeyem",
+        "traduction": "Neitram",
+        "legendary": false
+    },
+    {
+        "id": 607,
+        "name": "litwick",
+        "traduction": "Funécire",
+        "legendary": false
+    },
+    {
+        "id": 608,
+        "name": "lampent",
+        "traduction": "Mélancolux",
+        "legendary": false
+    },
+    {
+        "id": 609,
+        "name": "chandelure",
+        "traduction": "Lugulabre",
+        "legendary": false
+    },
+    {
+        "id": 610,
+        "name": "axew",
+        "traduction": "Coupenotte",
+        "legendary": false
+    },
+    {
+        "id": 611,
+        "name": "fraxure",
+        "traduction": "Incisache",
+        "legendary": false
+    },
+    {
+        "id": 612,
+        "name": "haxorus",
+        "traduction": "Tranchodon",
+        "legendary": false
+    },
+    {
+        "id": 613,
+        "name": "cubchoo",
+        "traduction": "Polarhume",
+        "legendary": false
+    },
+    {
+        "id": 614,
+        "name": "beartic",
+        "traduction": "Polagriffe",
+        "legendary": false
+    },
+    {
+        "id": 615,
+        "name": "cryogonal",
+        "traduction": "Hexagel",
+        "legendary": false
+    },
+    {
+        "id": 616,
+        "name": "shelmet",
+        "traduction": "Escargaume",
+        "legendary": false
+    },
+    {
+        "id": 617,
+        "name": "accelgor",
+        "traduction": "Limaspeed",
+        "legendary": false
+    },
+    {
+        "id": 618,
+        "name": "stunfisk",
+        "traduction": "Limonde",
+        "legendary": false
+    },
+    {
+        "id": 619,
+        "name": "mienfoo",
+        "traduction": "Kungfouine",
+        "legendary": false
+    },
+    {
+        "id": 620,
+        "name": "mienshao",
+        "traduction": "Shaofouine",
+        "legendary": false
+    },
+    {
+        "id": 621,
+        "name": "druddigon",
+        "traduction": "Drakkarmin",
+        "legendary": false
+    },
+    {
+        "id": 622,
+        "name": "golett",
+        "traduction": "Gringolem",
+        "legendary": false
+    },
+    {
+        "id": 623,
+        "name": "golurk",
+        "traduction": "Golemastoc",
+        "legendary": false
+    },
+    {
+        "id": 624,
+        "name": "pawniard",
+        "traduction": "Scalpion",
+        "legendary": false
+    },
+    {
+        "id": 625,
+        "name": "bisharp",
+        "traduction": "Scalproie",
+        "legendary": false
+    },
+    {
+        "id": 626,
+        "name": "bouffalant",
+        "traduction": "Frison",
+        "legendary": false
+    },
+    {
+        "id": 627,
+        "name": "rufflet",
+        "traduction": "Furaiglon",
+        "legendary": false
+    },
+    {
+        "id": 628,
+        "name": "braviary",
+        "traduction": "Gueriaigle",
+        "legendary": false
+    },
+    {
+        "id": 629,
+        "name": "vullaby",
+        "traduction": "Vostourno",
+        "legendary": false
+    },
+    {
+        "id": 630,
+        "name": "mandibuzz",
+        "traduction": "Vaututrice",
+        "legendary": false
+    },
+    {
+        "id": 631,
+        "name": "heatmor",
+        "traduction": "Aflamanoir",
+        "legendary": false
+    },
+    {
+        "id": 632,
+        "name": "durant",
+        "traduction": "Fermite",
+        "legendary": false
+    },
+    {
+        "id": 633,
+        "name": "deino",
+        "traduction": "Solochi",
+        "legendary": false
+    },
+    {
+        "id": 634,
+        "name": "zweilous",
+        "traduction": "Diamat",
+        "legendary": false
+    },
+    {
+        "id": 635,
+        "name": "hydreigon",
+        "traduction": "Trioxhydre",
+        "legendary": false
+    },
+    {
+        "id": 636,
+        "name": "larvesta",
+        "traduction": "Pyronille",
+        "legendary": false
+    },
+    {
+        "id": 637,
+        "name": "volcarona",
+        "traduction": "Pyrax",
+        "legendary": false
+    },
+    {
+        "id": 638,
+        "name": "cobalion",
+        "traduction": "Cobaltium",
+        "legendary": true
+    },
+    {
+        "id": 639,
+        "name": "terrakion",
+        "traduction": "Terrakium",
+        "legendary": true
+    },
+    {
+        "id": 640,
+        "name": "virizion",
+        "traduction": "Viridium",
+        "legendary": true
+    },
+    {
+        "id": 641,
+        "name": "tornadus-incarnate",
+        "traduction": "Boréas",
+        "legendary": true
+    },
+    {
+        "id": 642,
+        "name": "thundurus-incarnate",
+        "traduction": "Fulguris",
+        "legendary": true
+    },
+    {
+        "id": 643,
+        "name": "reshiram",
+        "traduction": "Reshiram",
+        "legendary": true
+    },
+    {
+        "id": 644,
+        "name": "zekrom",
+        "traduction": "Zekrom",
+        "legendary": true
+    },
+    {
+        "id": 645,
+        "name": "landorus-incarnate",
+        "traduction": "Démétéros",
+        "legendary": true
+    },
+    {
+        "id": 646,
+        "name": "kyurem",
+        "traduction": "Kyurem",
+        "legendary": true
+    },
+    {
+        "id": 647,
+        "name": "keldeo-ordinary",
+        "traduction": "Keldeo",
+        "legendary": false
+    },
+    {
+        "id": 648,
+        "name": "meloetta-aria",
+        "traduction": "Meloetta",
+        "legendary": false
+    },
+    {
+        "id": 649,
+        "name": "genesect",
+        "traduction": "Genesect",
+        "legendary": false
+    },
+    {
+        "id": 650,
+        "name": "chespin",
+        "traduction": "Marisson",
+        "legendary": false
+    },
+    {
+        "id": 651,
+        "name": "quilladin",
+        "traduction": "Boguérisse",
+        "legendary": false
+    },
+    {
+        "id": 652,
+        "name": "chesnaught",
+        "traduction": "Blindépique",
+        "legendary": false
+    },
+    {
+        "id": 653,
+        "name": "fennekin",
+        "traduction": "Feunnec",
+        "legendary": false
+    },
+    {
+        "id": 654,
+        "name": "braixen",
+        "traduction": "Roussil",
+        "legendary": false
+    },
+    {
+        "id": 655,
+        "name": "delphox",
+        "traduction": "Goupelin",
+        "legendary": false
+    },
+    {
+        "id": 656,
+        "name": "froakie",
+        "traduction": "Grenousse",
+        "legendary": false
+    },
+    {
+        "id": 657,
+        "name": "frogadier",
+        "traduction": "Croâporal",
+        "legendary": false
+    },
+    {
+        "id": 658,
+        "name": "greninja",
+        "traduction": "Amphinobi",
+        "legendary": false
+    },
+    {
+        "id": 659,
+        "name": "bunnelby",
+        "traduction": "Sapereau",
+        "legendary": false
+    },
+    {
+        "id": 660,
+        "name": "diggersby",
+        "traduction": "Excavarenne",
+        "legendary": false
+    },
+    {
+        "id": 661,
+        "name": "fletchling",
+        "traduction": "Passerouge",
+        "legendary": false
+    },
+    {
+        "id": 662,
+        "name": "fletchinder",
+        "traduction": "Braisillon",
+        "legendary": false
+    },
+    {
+        "id": 663,
+        "name": "talonflame",
+        "traduction": "Flambusard",
+        "legendary": false
+    },
+    {
+        "id": 664,
+        "name": "scatterbug",
+        "traduction": "Lépidonille",
+        "legendary": false
+    },
+    {
+        "id": 665,
+        "name": "spewpa",
+        "traduction": "Pérégrain",
+        "legendary": false
+    },
+    {
+        "id": 666,
+        "name": "vivillon",
+        "traduction": "Prismillon",
+        "legendary": false
+    },
+    {
+        "id": 667,
+        "name": "litleo",
+        "traduction": "Hélionceau",
+        "legendary": false
+    },
+    {
+        "id": 668,
+        "name": "pyroar",
+        "traduction": "Némélios",
+        "legendary": false
+    },
+    {
+        "id": 669,
+        "name": "flabebe",
+        "traduction": "Flabébé",
+        "legendary": false
+    },
+    {
+        "id": 670,
+        "name": "floette",
+        "traduction": "Floette",
+        "legendary": false
+    },
+    {
+        "id": 671,
+        "name": "florges",
+        "traduction": "Florges",
+        "legendary": false
+    },
+    {
+        "id": 672,
+        "name": "skiddo",
+        "traduction": "Cabriolaine",
+        "legendary": false
+    },
+    {
+        "id": 673,
+        "name": "gogoat",
+        "traduction": "Chevroum",
+        "legendary": false
+    },
+    {
+        "id": 674,
+        "name": "pancham",
+        "traduction": "Pandespiègle",
+        "legendary": false
+    },
+    {
+        "id": 675,
+        "name": "pangoro",
+        "traduction": "Pandarbare",
+        "legendary": false
+    },
+    {
+        "id": 676,
+        "name": "furfrou",
+        "traduction": "Couafarel",
+        "legendary": false
+    },
+    {
+        "id": 677,
+        "name": "espurr",
+        "traduction": "Psystigri",
+        "legendary": false
+    },
+    {
+        "id": 678,
+        "name": "meowstic-male",
+        "traduction": "Mistigrix",
+        "legendary": false
+    },
+    {
+        "id": 679,
+        "name": "honedge",
+        "traduction": "Monorpale",
+        "legendary": false
+    },
+    {
+        "id": 680,
+        "name": "doublade",
+        "traduction": "Dimoclès",
+        "legendary": false
+    },
+    {
+        "id": 681,
+        "name": "aegislash-shield",
+        "traduction": "Exagide",
+        "legendary": false
+    },
+    {
+        "id": 682,
+        "name": "spritzee",
+        "traduction": "Fluvetin",
+        "legendary": false
+    },
+    {
+        "id": 683,
+        "name": "aromatisse",
+        "traduction": "Cocotine",
+        "legendary": false
+    },
+    {
+        "id": 684,
+        "name": "swirlix",
+        "traduction": "Sucroquin",
+        "legendary": false
+    },
+    {
+        "id": 685,
+        "name": "slurpuff",
+        "traduction": "Cupcanaille",
+        "legendary": false
+    },
+    {
+        "id": 686,
+        "name": "inkay",
+        "traduction": "Sepiatop",
+        "legendary": false
+    },
+    {
+        "id": 687,
+        "name": "malamar",
+        "traduction": "Sepiatroce",
+        "legendary": false
+    },
+    {
+        "id": 688,
+        "name": "binacle",
+        "traduction": "Opermine",
+        "legendary": false
+    },
+    {
+        "id": 689,
+        "name": "barbaracle",
+        "traduction": "Golgopathe",
+        "legendary": false
+    },
+    {
+        "id": 690,
+        "name": "skrelp",
+        "traduction": "Venalgue",
+        "legendary": false
+    },
+    {
+        "id": 691,
+        "name": "dragalge",
+        "traduction": "Kravarech",
+        "legendary": false
+    },
+    {
+        "id": 692,
+        "name": "clauncher",
+        "traduction": "Flingouste",
+        "legendary": false
+    },
+    {
+        "id": 693,
+        "name": "clawitzer",
+        "traduction": "Gamblast",
+        "legendary": false
+    },
+    {
+        "id": 694,
+        "name": "helioptile",
+        "traduction": "Galvaran",
+        "legendary": false
+    },
+    {
+        "id": 695,
+        "name": "heliolisk",
+        "traduction": "Iguolta",
+        "legendary": false
+    },
+    {
+        "id": 696,
+        "name": "tyrunt",
+        "traduction": "Ptyranidur",
+        "legendary": false
+    },
+    {
+        "id": 697,
+        "name": "tyrantrum",
+        "traduction": "Rexillius",
+        "legendary": false
+    },
+    {
+        "id": 698,
+        "name": "amaura",
+        "traduction": "Amagara",
+        "legendary": false
+    },
+    {
+        "id": 699,
+        "name": "aurorus",
+        "traduction": "Dragmara",
+        "legendary": false
+    },
+    {
+        "id": 700,
+        "name": "sylveon",
+        "traduction": "Nymphali",
+        "legendary": false
+    },
+    {
+        "id": 701,
+        "name": "hawlucha",
+        "traduction": "Brutalibré",
+        "legendary": false
+    },
+    {
+        "id": 702,
+        "name": "dedenne",
+        "traduction": "Dedenne",
+        "legendary": false
+    },
+    {
+        "id": 703,
+        "name": "carbink",
+        "traduction": "Strassie",
+        "legendary": false
+    },
+    {
+        "id": 704,
+        "name": "goomy",
+        "traduction": "Mucuscule",
+        "legendary": false
+    },
+    {
+        "id": 705,
+        "name": "sliggoo",
+        "traduction": "Colimucus",
+        "legendary": false
+    },
+    {
+        "id": 706,
+        "name": "goodra",
+        "traduction": "Muplodocus",
+        "legendary": false
+    },
+    {
+        "id": 707,
+        "name": "klefki",
+        "traduction": "Trousselin",
+        "legendary": false
+    },
+    {
+        "id": 708,
+        "name": "phantump",
+        "traduction": "Brocélôme",
+        "legendary": false
+    },
+    {
+        "id": 709,
+        "name": "trevenant",
+        "traduction": "Desséliande",
+        "legendary": false
+    },
+    {
+        "id": 710,
+        "name": "pumpkaboo-average",
+        "traduction": "Pitrouille",
+        "legendary": false
+    },
+    {
+        "id": 711,
+        "name": "gourgeist-average",
+        "traduction": "Banshitrouye",
+        "legendary": false
+    },
+    {
+        "id": 712,
+        "name": "bergmite",
+        "traduction": "Grelaçon",
+        "legendary": false
+    },
+    {
+        "id": 713,
+        "name": "avalugg",
+        "traduction": "Séracrawl",
+        "legendary": false
+    },
+    {
+        "id": 714,
+        "name": "noibat",
+        "traduction": "Sonistrelle",
+        "legendary": false
+    },
+    {
+        "id": 715,
+        "name": "noivern",
+        "traduction": "Bruyverne",
+        "legendary": false
+    },
+    {
+        "id": 716,
+        "name": "xerneas",
+        "traduction": "Xerneas",
+        "legendary": true
+    },
+    {
+        "id": 717,
+        "name": "yveltal",
+        "traduction": "Yveltal",
+        "legendary": true
+    },
+    {
+        "id": 718,
+        "name": "zygarde-50",
+        "traduction": "Zygarde",
+        "legendary": true
+    },
+    {
+        "id": 719,
+        "name": "diancie",
+        "traduction": "Diancie",
+        "legendary": false
+    },
+    {
+        "id": 720,
+        "name": "hoopa",
+        "traduction": "Hoopa",
+        "legendary": false
+    },
+    {
+        "id": 721,
+        "name": "volcanion",
+        "traduction": "Volcanion",
+        "legendary": false
+    },
+    {
+        "id": 722,
+        "name": "rowlet",
+        "traduction": "Brindibou",
+        "legendary": false
+    },
+    {
+        "id": 723,
+        "name": "dartrix",
+        "traduction": "Efflèche",
+        "legendary": false
+    },
+    {
+        "id": 724,
+        "name": "decidueye",
+        "traduction": "Archéduc",
+        "legendary": false
+    },
+    {
+        "id": 725,
+        "name": "litten",
+        "traduction": "Flamiaou",
+        "legendary": false
+    },
+    {
+        "id": 726,
+        "name": "torracat",
+        "traduction": "Matoufeu",
+        "legendary": false
+    },
+    {
+        "id": 727,
+        "name": "incineroar",
+        "traduction": "Félinferno",
+        "legendary": false
+    },
+    {
+        "id": 728,
+        "name": "popplio",
+        "traduction": "Otaquin",
+        "legendary": false
+    },
+    {
+        "id": 729,
+        "name": "brionne",
+        "traduction": "Otarlette",
+        "legendary": false
+    },
+    {
+        "id": 730,
+        "name": "primarina",
+        "traduction": "Oratoria",
+        "legendary": false
+    },
+    {
+        "id": 731,
+        "name": "pikipek",
+        "traduction": "Picassaut",
+        "legendary": false
+    },
+    {
+        "id": 732,
+        "name": "trumbeak",
+        "traduction": "Piclairon",
+        "legendary": false
+    },
+    {
+        "id": 733,
+        "name": "toucannon",
+        "traduction": "Bazoucan",
+        "legendary": false
+    },
+    {
+        "id": 734,
+        "name": "yungoos",
+        "traduction": "Manglouton",
+        "legendary": false
+    },
+    {
+        "id": 735,
+        "name": "gumshoos",
+        "traduction": "Argouste",
+        "legendary": false
+    },
+    {
+        "id": 736,
+        "name": "grubbin",
+        "traduction": "Larvibule",
+        "legendary": false
+    },
+    {
+        "id": 737,
+        "name": "charjabug",
+        "traduction": "Chrysapile",
+        "legendary": false
+    },
+    {
+        "id": 738,
+        "name": "vikavolt",
+        "traduction": "Lucanon",
+        "legendary": false
+    },
+    {
+        "id": 739,
+        "name": "crabrawler",
+        "traduction": "Crabagarre",
+        "legendary": false
+    },
+    {
+        "id": 740,
+        "name": "crabominable",
+        "traduction": "Crabominable",
+        "legendary": false
+    },
+    {
+        "id": 741,
+        "name": "oricorio-baile",
+        "traduction": "Plumeline",
+        "legendary": false
+    },
+    {
+        "id": 742,
+        "name": "cutiefly",
+        "traduction": "Bombydou",
+        "legendary": false
+    },
+    {
+        "id": 743,
+        "name": "ribombee",
+        "traduction": "Rubombelle",
+        "legendary": false
+    },
+    {
+        "id": 744,
+        "name": "rockruff",
+        "traduction": "Rocabot",
+        "legendary": false
+    },
+    {
+        "id": 745,
+        "name": "lycanroc-midday",
+        "traduction": "Lougaroc",
+        "legendary": false
+    },
+    {
+        "id": 746,
+        "name": "wishiwashi-solo",
+        "traduction": "Froussardine",
+        "legendary": false
+    },
+    {
+        "id": 747,
+        "name": "mareanie",
+        "traduction": "Vorastérie",
+        "legendary": false
+    },
+    {
+        "id": 748,
+        "name": "toxapex",
+        "traduction": "Prédastérie",
+        "legendary": false
+    },
+    {
+        "id": 749,
+        "name": "mudbray",
+        "traduction": "Tiboudet",
+        "legendary": false
+    },
+    {
+        "id": 750,
+        "name": "mudsdale",
+        "traduction": "Bourrinos",
+        "legendary": false
+    },
+    {
+        "id": 751,
+        "name": "dewpider",
+        "traduction": "Araqua",
+        "legendary": false
+    },
+    {
+        "id": 752,
+        "name": "araquanid",
+        "traduction": "Tarenbulle",
+        "legendary": false
+    },
+    {
+        "id": 753,
+        "name": "fomantis",
+        "traduction": "Mimantis",
+        "legendary": false
+    },
+    {
+        "id": 754,
+        "name": "lurantis",
+        "traduction": "Floramantis",
+        "legendary": false
+    },
+    {
+        "id": 755,
+        "name": "morelull",
+        "traduction": "Spododo",
+        "legendary": false
+    },
+    {
+        "id": 756,
+        "name": "shiinotic",
+        "traduction": "Lampignon",
+        "legendary": false
+    },
+    {
+        "id": 757,
+        "name": "salandit",
+        "traduction": "Tritox",
+        "legendary": false
+    },
+    {
+        "id": 758,
+        "name": "salazzle",
+        "traduction": "Malamandre",
+        "legendary": false
+    },
+    {
+        "id": 759,
+        "name": "stufful",
+        "traduction": "Nounourson",
+        "legendary": false
+    },
+    {
+        "id": 760,
+        "name": "bewear",
+        "traduction": "Chelours",
+        "legendary": false
+    },
+    {
+        "id": 761,
+        "name": "bounsweet",
+        "traduction": "Croquine",
+        "legendary": false
+    },
+    {
+        "id": 762,
+        "name": "steenee",
+        "traduction": "Candine",
+        "legendary": false
+    },
+    {
+        "id": 763,
+        "name": "tsareena",
+        "traduction": "Sucreine",
+        "legendary": false
+    },
+    {
+        "id": 764,
+        "name": "comfey",
+        "traduction": "Guérilande",
+        "legendary": false
+    },
+    {
+        "id": 765,
+        "name": "oranguru",
+        "traduction": "Gouroutan",
+        "legendary": false
+    },
+    {
+        "id": 766,
+        "name": "passimian",
+        "traduction": "Quartermac",
+        "legendary": false
+    },
+    {
+        "id": 767,
+        "name": "wimpod",
+        "traduction": "Sovkipou",
+        "legendary": false
+    },
+    {
+        "id": 768,
+        "name": "golisopod",
+        "traduction": "Sarmuraï",
+        "legendary": false
+    },
+    {
+        "id": 769,
+        "name": "sandygast",
+        "traduction": "Bacabouh",
+        "legendary": false
+    },
+    {
+        "id": 770,
+        "name": "palossand",
+        "traduction": "Trépassable",
+        "legendary": false
+    },
+    {
+        "id": 771,
+        "name": "pyukumuku",
+        "traduction": "Concombaffe",
+        "legendary": false
+    },
+    {
+        "id": 772,
+        "name": "type-null",
+        "traduction": "Type:0",
+        "legendary": false
+    },
+    {
+        "id": 773,
+        "name": "silvally",
+        "traduction": "Silvallié",
+        "legendary": true
+    },
+    {
+        "id": 774,
+        "name": "minior-red-meteor",
+        "traduction": "Météno",
+        "legendary": false
+    },
+    {
+        "id": 775,
+        "name": "komala",
+        "traduction": "Dodoala",
+        "legendary": false
+    },
+    {
+        "id": 776,
+        "name": "turtonator",
+        "traduction": "Boumata",
+        "legendary": false
+    },
+    {
+        "id": 777,
+        "name": "togedemaru",
+        "traduction": "Togedemaru",
+        "legendary": false
+    },
+    {
+        "id": 778,
+        "name": "mimikyu-disguised",
+        "traduction": "Mimiqui",
+        "legendary": false
+    },
+    {
+        "id": 779,
+        "name": "bruxish",
+        "traduction": "Denticrisse",
+        "legendary": false
+    },
+    {
+        "id": 780,
+        "name": "drampa",
+        "traduction": "Draïeul",
+        "legendary": false
+    },
+    {
+        "id": 781,
+        "name": "dhelmise",
+        "traduction": "Sinistrail",
+        "legendary": false
+    },
+    {
+        "id": 782,
+        "name": "jangmo-o",
+        "traduction": "Bébécaille",
+        "legendary": false
+    },
+    {
+        "id": 783,
+        "name": "hakamo-o",
+        "traduction": "Écaïd",
+        "legendary": false
+    },
+    {
+        "id": 784,
+        "name": "kommo-o",
+        "traduction": "Ékaïser",
+        "legendary": false
+    },
+    {
+        "id": 785,
+        "name": "tapu-koko",
+        "traduction": "Tokorico",
+        "legendary": true
+    },
+    {
+        "id": 786,
+        "name": "tapu-lele",
+        "traduction": "Tokopiyon",
+        "legendary": true
+    },
+    {
+        "id": 787,
+        "name": "tapu-bulu",
+        "traduction": "Tokotoro",
+        "legendary": true
+    },
+    {
+        "id": 788,
+        "name": "tapu-fini",
+        "traduction": "Tokopisco",
+        "legendary": true
+    },
+    {
+        "id": 789,
+        "name": "cosmog",
+        "traduction": "Cosmog",
+        "legendary": true
+    },
+    {
+        "id": 790,
+        "name": "cosmoem",
+        "traduction": "Cosmovum",
+        "legendary": true
+    },
+    {
+        "id": 791,
+        "name": "solgaleo",
+        "traduction": "Solgaleo",
+        "legendary": true
+    },
+    {
+        "id": 792,
+        "name": "lunala",
+        "traduction": "Lunala",
+        "legendary": true
+    },
+    {
+        "id": 793,
+        "name": "nihilego",
+        "traduction": "Zéroïd",
+        "legendary": false
+    },
+    {
+        "id": 794,
+        "name": "buzzwole",
+        "traduction": "Mouscoto",
+        "legendary": false
+    },
+    {
+        "id": 795,
+        "name": "pheromosa",
+        "traduction": "Cancrelove",
+        "legendary": false
+    },
+    {
+        "id": 796,
+        "name": "xurkitree",
+        "traduction": "Câblifère",
+        "legendary": false
+    },
+    {
+        "id": 797,
+        "name": "celesteela",
+        "traduction": "Bamboiselle",
+        "legendary": false
+    },
+    {
+        "id": 798,
+        "name": "kartana",
+        "traduction": "Katagami",
+        "legendary": false
+    },
+    {
+        "id": 799,
+        "name": "guzzlord",
+        "traduction": "Engloutyran",
+        "legendary": false
+    },
+    {
+        "id": 800,
+        "name": "necrozma",
+        "traduction": "Necrozma",
+        "legendary": true
+    },
+    {
+        "id": 801,
+        "name": "magearna",
+        "traduction": "Magearna",
+        "legendary": false
+    },
+    {
+        "id": 802,
+        "name": "marshadow",
+        "traduction": "Marshadow",
+        "legendary": false
+    },
+    {
+        "id": 803,
+        "name": "poipole",
+        "traduction": "Vémini",
+        "legendary": false
+    },
+    {
+        "id": 804,
+        "name": "naganadel",
+        "traduction": "Mandrillon",
+        "legendary": false
+    },
+    {
+        "id": 805,
+        "name": "stakataka",
+        "traduction": "Ama-Ama",
+        "legendary": false
+    },
+    {
+        "id": 806,
+        "name": "blacephalon",
+        "traduction": "Pierroteknik",
+        "legendary": false
+    },
+    {
+        "id": 807,
+        "name": "zeraora",
+        "traduction": "Zeraora",
+        "legendary": false
+    },
+    {
+        "id": 808,
+        "name": "meltan",
+        "traduction": "Meltan",
+        "legendary": false
+    },
+    {
+        "id": 809,
+        "name": "melmetal",
+        "traduction": "Melmetal",
+        "legendary": false
+    },
+    {
+        "id": 810,
+        "name": "grookey",
+        "traduction": "Ouistempo",
+        "legendary": false
+    },
+    {
+        "id": 811,
+        "name": "thwackey",
+        "traduction": "Badabouin",
+        "legendary": false
+    },
+    {
+        "id": 812,
+        "name": "rillaboom",
+        "traduction": "Gorythmic",
+        "legendary": false
+    },
+    {
+        "id": 813,
+        "name": "scorbunny",
+        "traduction": "Flambino",
+        "legendary": false
+    },
+    {
+        "id": 814,
+        "name": "raboot",
+        "traduction": "Lapyro",
+        "legendary": false
+    },
+    {
+        "id": 815,
+        "name": "cinderace",
+        "traduction": "Pyrobut",
+        "legendary": false
+    },
+    {
+        "id": 816,
+        "name": "sobble",
+        "traduction": "Larméléon",
+        "legendary": false
+    },
+    {
+        "id": 817,
+        "name": "drizzile",
+        "traduction": "Arrozard",
+        "legendary": false
+    },
+    {
+        "id": 818,
+        "name": "inteleon",
+        "traduction": "Lézargus",
+        "legendary": false
+    },
+    {
+        "id": 819,
+        "name": "skwovet",
+        "traduction": "Rongourmand",
+        "legendary": false
+    },
+    {
+        "id": 820,
+        "name": "greedent",
+        "traduction": "Rongrigou",
+        "legendary": false
+    },
+    {
+        "id": 821,
+        "name": "rookidee",
+        "traduction": "Minisange",
+        "legendary": false
+    },
+    {
+        "id": 822,
+        "name": "corvisquire",
+        "traduction": "Bleuseille",
+        "legendary": false
+    },
+    {
+        "id": 823,
+        "name": "corviknight",
+        "traduction": "Corvaillus",
+        "legendary": false
+    },
+    {
+        "id": 824,
+        "name": "blipbug",
+        "traduction": "Larvadar",
+        "legendary": false
+    },
+    {
+        "id": 825,
+        "name": "dottler",
+        "traduction": "Coléodôme",
+        "legendary": false
+    },
+    {
+        "id": 826,
+        "name": "orbeetle",
+        "traduction": "Astronelle",
+        "legendary": false
+    },
+    {
+        "id": 827,
+        "name": "nickit",
+        "traduction": "Goupilou",
+        "legendary": false
+    },
+    {
+        "id": 828,
+        "name": "thievul",
+        "traduction": "Roublenard",
+        "legendary": false
+    },
+    {
+        "id": 829,
+        "name": "gossifleur",
+        "traduction": "Tournicoton",
+        "legendary": false
+    },
+    {
+        "id": 830,
+        "name": "eldegoss",
+        "traduction": "Blancoton",
+        "legendary": false
+    },
+    {
+        "id": 831,
+        "name": "wooloo",
+        "traduction": "Moumouton",
+        "legendary": false
+    },
+    {
+        "id": 832,
+        "name": "dubwool",
+        "traduction": "Moumouflon",
+        "legendary": false
+    },
+    {
+        "id": 833,
+        "name": "chewtle",
+        "traduction": "Khélocrok",
+        "legendary": false
+    },
+    {
+        "id": 834,
+        "name": "drednaw",
+        "traduction": "Torgamord",
+        "legendary": false
+    },
+    {
+        "id": 835,
+        "name": "yamper",
+        "traduction": "Voltoutou",
+        "legendary": false
+    },
+    {
+        "id": 836,
+        "name": "boltund",
+        "traduction": "Fulgudog",
+        "legendary": false
+    },
+    {
+        "id": 837,
+        "name": "rolycoly",
+        "traduction": "Charbi",
+        "legendary": false
+    },
+    {
+        "id": 838,
+        "name": "carkol",
+        "traduction": "Wagomine",
+        "legendary": false
+    },
+    {
+        "id": 839,
+        "name": "coalossal",
+        "traduction": "Monthracite",
+        "legendary": false
+    },
+    {
+        "id": 840,
+        "name": "applin",
+        "traduction": "Verpom",
+        "legendary": false
+    },
+    {
+        "id": 841,
+        "name": "flapple",
+        "traduction": "Pomdrapi",
+        "legendary": false
+    },
+    {
+        "id": 842,
+        "name": "appletun",
+        "traduction": "Dratatin",
+        "legendary": false
+    },
+    {
+        "id": 843,
+        "name": "silicobra",
+        "traduction": "Dunaja",
+        "legendary": false
+    },
+    {
+        "id": 844,
+        "name": "sandaconda",
+        "traduction": "Dunaconda",
+        "legendary": false
+    },
+    {
+        "id": 845,
+        "name": "cramorant",
+        "traduction": "Nigosier",
+        "legendary": false
+    },
+    {
+        "id": 846,
+        "name": "arrokuda",
+        "traduction": "Embrochet",
+        "legendary": false
+    },
+    {
+        "id": 847,
+        "name": "barraskewda",
+        "traduction": "Hastacuda",
+        "legendary": false
+    },
+    {
+        "id": 848,
+        "name": "toxel",
+        "traduction": "Toxizap",
+        "legendary": false
+    },
+    {
+        "id": 849,
+        "name": "toxtricity-amped",
+        "traduction": "Salarsen",
+        "legendary": false
+    },
+    {
+        "id": 850,
+        "name": "sizzlipede",
+        "traduction": "Grillepattes",
+        "legendary": false
+    },
+    {
+        "id": 851,
+        "name": "centiskorch",
+        "traduction": "Scolocendre",
+        "legendary": false
+    },
+    {
+        "id": 852,
+        "name": "clobbopus",
+        "traduction": "Poulpaf",
+        "legendary": false
+    },
+    {
+        "id": 853,
+        "name": "grapploct",
+        "traduction": "Krakos",
+        "legendary": false
+    },
+    {
+        "id": 854,
+        "name": "sinistea",
+        "traduction": "Théffroi",
+        "legendary": false
+    },
+    {
+        "id": 855,
+        "name": "polteageist",
+        "traduction": "Polthégeist",
+        "legendary": false
+    },
+    {
+        "id": 856,
+        "name": "hatenna",
+        "traduction": "Bibichut",
+        "legendary": false
+    },
+    {
+        "id": 857,
+        "name": "hattrem",
+        "traduction": "Chapotus",
+        "legendary": false
+    },
+    {
+        "id": 858,
+        "name": "hatterene",
+        "traduction": "Sorcilence",
+        "legendary": false
+    },
+    {
+        "id": 859,
+        "name": "impidimp",
+        "traduction": "Grimalin",
+        "legendary": false
+    },
+    {
+        "id": 860,
+        "name": "morgrem",
+        "traduction": "Fourbelin",
+        "legendary": false
+    },
+    {
+        "id": 861,
+        "name": "grimmsnarl",
+        "traduction": "Angoliath",
+        "legendary": false
+    },
+    {
+        "id": 862,
+        "name": "obstagoon",
+        "traduction": "Ixon",
+        "legendary": false
+    },
+    {
+        "id": 863,
+        "name": "perrserker",
+        "traduction": "Berserkatt",
+        "legendary": false
+    },
+    {
+        "id": 864,
+        "name": "cursola",
+        "traduction": "Corayôme",
+        "legendary": false
+    },
+    {
+        "id": 865,
+        "name": "sirfetchd",
+        "traduction": "Palarticho",
+        "legendary": false
+    },
+    {
+        "id": 866,
+        "name": "mr-rime",
+        "traduction": "M. Glaquette",
+        "legendary": false
+    },
+    {
+        "id": 867,
+        "name": "runerigus",
+        "traduction": "Tutétékri",
+        "legendary": false
+    },
+    {
+        "id": 868,
+        "name": "milcery",
+        "traduction": "Crèmy",
+        "legendary": false
+    },
+    {
+        "id": 869,
+        "name": "alcremie",
+        "traduction": "Charmilly",
+        "legendary": false
+    },
+    {
+        "id": 870,
+        "name": "falinks",
+        "traduction": "Hexadron",
+        "legendary": false
+    },
+    {
+        "id": 871,
+        "name": "pincurchin",
+        "traduction": "Wattapik",
+        "legendary": false
+    },
+    {
+        "id": 872,
+        "name": "snom",
+        "traduction": "Frissonille",
+        "legendary": false
+    },
+    {
+        "id": 873,
+        "name": "frosmoth",
+        "traduction": "Beldeneige",
+        "legendary": false
+    },
+    {
+        "id": 874,
+        "name": "stonjourner",
+        "traduction": "Dolman",
+        "legendary": false
+    },
+    {
+        "id": 875,
+        "name": "eiscue-ice",
+        "traduction": "Bekaglaçon",
+        "legendary": false
+    },
+    {
+        "id": 876,
+        "name": "indeedee-male",
+        "traduction": "Wimessir",
+        "legendary": false
+    },
+    {
+        "id": 877,
+        "name": "morpeko-full-belly",
+        "traduction": "Morpeko",
+        "legendary": false
+    },
+    {
+        "id": 878,
+        "name": "cufant",
+        "traduction": "Charibari",
+        "legendary": false
+    },
+    {
+        "id": 879,
+        "name": "copperajah",
+        "traduction": "Pachyradjah",
+        "legendary": false
+    },
+    {
+        "id": 880,
+        "name": "dracozolt",
+        "traduction": "Galvagon",
+        "legendary": false
+    },
+    {
+        "id": 881,
+        "name": "arctozolt",
+        "traduction": "Galvagla",
+        "legendary": false
+    },
+    {
+        "id": 882,
+        "name": "dracovish",
+        "traduction": "Hydragon",
+        "legendary": false
+    },
+    {
+        "id": 883,
+        "name": "arctovish",
+        "traduction": "Hydragla",
+        "legendary": false
+    },
+    {
+        "id": 884,
+        "name": "duraludon",
+        "traduction": "Duralugon",
+        "legendary": false
+    },
+    {
+        "id": 885,
+        "name": "dreepy",
+        "traduction": "Fantyrm",
+        "legendary": false
+    },
+    {
+        "id": 886,
+        "name": "drakloak",
+        "traduction": "Dispareptil",
+        "legendary": false
+    },
+    {
+        "id": 887,
+        "name": "dragapult",
+        "traduction": "Lanssorien",
+        "legendary": false
+    },
+    {
+        "id": 888,
+        "name": "zacian",
+        "traduction": "Zacian",
+        "legendary": true
+    },
+    {
+        "id": 889,
+        "name": "zamazenta",
+        "traduction": "Zamazenta",
+        "legendary": true
+    },
+    {
+        "id": 890,
+        "name": "eternatus",
+        "traduction": "Éthernatos",
+        "legendary": true
+    },
+    {
+        "id": 891,
+        "name": "kubfu",
+        "traduction": "Wushours",
+        "legendary": true
+    },
+    {
+        "id": 892,
+        "name": "urshifu-single-strike",
+        "traduction": "Shifours",
+        "legendary": true
+    },
+    {
+        "id": 893,
+        "name": "zarude",
+        "traduction": "Zarude",
+        "legendary": false
+    },
+    {
+        "id": 894,
+        "name": "regieleki",
+        "traduction": "Regieleki",
+        "legendary": true
+    },
+    {
+        "id": 895,
+        "name": "regidrago",
+        "traduction": "Regidrago",
+        "legendary": true
+    },
+    {
+        "id": 896,
+        "name": "glastrier",
+        "traduction": "Blizzeval",
+        "legendary": true
+    },
+    {
+        "id": 897,
+        "name": "spectrier",
+        "traduction": "Spectreval",
+        "legendary": true
+    },
+    {
+        "id": 898,
+        "name": "calyrex",
+        "traduction": "Sylveroy",
+        "legendary": true
+    },
+    {
+        "id": 899,
+        "name": "wyrdeer",
+        "traduction": "Cerbyllin",
+        "legendary": false
+    },
+    {
+        "id": 900,
+        "name": "kleavor",
+        "traduction": "Hachécateur",
+        "legendary": false
+    },
+    {
+        "id": 901,
+        "name": "ursaluna",
+        "traduction": "Ursaking",
+        "legendary": false
+    },
+    {
+        "id": 902,
+        "name": "basculegion-male",
+        "traduction": "Paragruel",
+        "legendary": false
+    },
+    {
+        "id": 903,
+        "name": "sneasler",
+        "traduction": "Farfurex",
+        "legendary": false
+    },
+    {
+        "id": 904,
+        "name": "overqwil",
+        "traduction": "Qwilpik",
+        "legendary": false
+    },
+    {
+        "id": 905,
+        "name": "enamorus-incarnate",
+        "traduction": "Amovénus",
+        "legendary": true
+    },
+    {
+        "id": 10001,
+        "name": "deoxys-attack",
+        "traduction": "Deoxys",
+        "legendary": false
+    },
+    {
+        "id": 10002,
+        "name": "deoxys-defense",
+        "traduction": "Deoxys",
+        "legendary": false
+    },
+    {
+        "id": 10003,
+        "name": "deoxys-speed",
+        "traduction": "Deoxys",
+        "legendary": false
+    },
+    {
+        "id": 10004,
+        "name": "wormadam-sandy",
+        "traduction": "Cheniselle",
+        "legendary": false
+    },
+    {
+        "id": 10005,
+        "name": "wormadam-trash",
+        "traduction": "Cheniselle",
+        "legendary": false
+    },
+    {
+        "id": 10006,
+        "name": "shaymin-sky",
+        "traduction": "Shaymin",
+        "legendary": false
+    },
+    {
+        "id": 10007,
+        "name": "giratina-origin",
+        "traduction": "Giratina",
+        "legendary": true
+    },
+    {
+        "id": 10008,
+        "name": "rotom-heat",
+        "traduction": "Motisma",
+        "legendary": false
+    },
+    {
+        "id": 10009,
+        "name": "rotom-wash",
+        "traduction": "Motisma",
+        "legendary": false
+    },
+    {
+        "id": 10010,
+        "name": "rotom-frost",
+        "traduction": "Motisma",
+        "legendary": false
+    },
+    {
+        "id": 10011,
+        "name": "rotom-fan",
+        "traduction": "Motisma",
+        "legendary": false
+    },
+    {
+        "id": 10012,
+        "name": "rotom-mow",
+        "traduction": "Motisma",
+        "legendary": false
+    },
+    {
+        "id": 10013,
+        "name": "castform-sunny",
+        "traduction": "Morphéo",
+        "legendary": false
+    },
+    {
+        "id": 10014,
+        "name": "castform-rainy",
+        "traduction": "Morphéo",
+        "legendary": false
+    },
+    {
+        "id": 10015,
+        "name": "castform-snowy",
+        "traduction": "Morphéo",
+        "legendary": false
+    },
+    {
+        "id": 10016,
+        "name": "basculin-blue-striped",
+        "traduction": "Bargantua",
+        "legendary": false
+    },
+    {
+        "id": 10017,
+        "name": "darmanitan-zen",
+        "traduction": "Darumacho",
+        "legendary": false
+    },
+    {
+        "id": 10018,
+        "name": "meloetta-pirouette",
+        "traduction": "Meloetta",
+        "legendary": false
+    },
+    {
+        "id": 10019,
+        "name": "tornadus-therian",
+        "traduction": "Boréas",
+        "legendary": true
+    },
+    {
+        "id": 10020,
+        "name": "thundurus-therian",
+        "traduction": "Fulguris",
+        "legendary": true
+    },
+    {
+        "id": 10021,
+        "name": "landorus-therian",
+        "traduction": "Démétéros",
+        "legendary": true
+    },
+    {
+        "id": 10022,
+        "name": "kyurem-black",
+        "traduction": "Kyurem",
+        "legendary": true
+    },
+    {
+        "id": 10023,
+        "name": "kyurem-white",
+        "traduction": "Kyurem",
+        "legendary": true
+    },
+    {
+        "id": 10024,
+        "name": "keldeo-resolute",
+        "traduction": "Keldeo",
+        "legendary": false
+    },
+    {
+        "id": 10025,
+        "name": "meowstic-female",
+        "traduction": "Mistigrix",
+        "legendary": false
+    },
+    {
+        "id": 10026,
+        "name": "aegislash-blade",
+        "traduction": "Exagide",
+        "legendary": false
+    },
+    {
+        "id": 10027,
+        "name": "pumpkaboo-small",
+        "traduction": "Pitrouille",
+        "legendary": false
+    },
+    {
+        "id": 10028,
+        "name": "pumpkaboo-large",
+        "traduction": "Pitrouille",
+        "legendary": false
+    },
+    {
+        "id": 10029,
+        "name": "pumpkaboo-super",
+        "traduction": "Pitrouille",
+        "legendary": false
+    },
+    {
+        "id": 10030,
+        "name": "gourgeist-small",
+        "traduction": "Banshitrouye",
+        "legendary": false
+    },
+    {
+        "id": 10031,
+        "name": "gourgeist-large",
+        "traduction": "Banshitrouye",
+        "legendary": false
+    },
+    {
+        "id": 10032,
+        "name": "gourgeist-super",
+        "traduction": "Banshitrouye",
+        "legendary": false
+    },
+    {
+        "id": 10033,
+        "name": "venusaur-mega",
+        "traduction": "Florizarre",
+        "legendary": false
+    },
+    {
+        "id": 10034,
+        "name": "charizard-mega-x",
+        "traduction": "Dracaufeu",
+        "legendary": false
+    },
+    {
+        "id": 10035,
+        "name": "charizard-mega-y",
+        "traduction": "Dracaufeu",
+        "legendary": false
+    },
+    {
+        "id": 10036,
+        "name": "blastoise-mega",
+        "traduction": "Tortank",
+        "legendary": false
+    },
+    {
+        "id": 10037,
+        "name": "alakazam-mega",
+        "traduction": "Alakazam",
+        "legendary": false
+    },
+    {
+        "id": 10038,
+        "name": "gengar-mega",
+        "traduction": "Ectoplasma",
+        "legendary": false
+    },
+    {
+        "id": 10039,
+        "name": "kangaskhan-mega",
+        "traduction": "Kangourex",
+        "legendary": false
+    },
+    {
+        "id": 10040,
+        "name": "pinsir-mega",
+        "traduction": "Scarabrute",
+        "legendary": false
+    },
+    {
+        "id": 10041,
+        "name": "gyarados-mega",
+        "traduction": "Léviator",
+        "legendary": false
+    },
+    {
+        "id": 10042,
+        "name": "aerodactyl-mega",
+        "traduction": "Ptéra",
+        "legendary": false
+    },
+    {
+        "id": 10043,
+        "name": "mewtwo-mega-x",
+        "traduction": "Mewtwo",
+        "legendary": true
+    },
+    {
+        "id": 10044,
+        "name": "mewtwo-mega-y",
+        "traduction": "Mewtwo",
+        "legendary": true
+    },
+    {
+        "id": 10045,
+        "name": "ampharos-mega",
+        "traduction": "Pharamp",
+        "legendary": false
+    },
+    {
+        "id": 10046,
+        "name": "scizor-mega",
+        "traduction": "Cizayox",
+        "legendary": false
+    },
+    {
+        "id": 10047,
+        "name": "heracross-mega",
+        "traduction": "Scarhino",
+        "legendary": false
+    },
+    {
+        "id": 10048,
+        "name": "houndoom-mega",
+        "traduction": "Démolosse",
+        "legendary": false
+    },
+    {
+        "id": 10049,
+        "name": "tyranitar-mega",
+        "traduction": "Tyranocif",
+        "legendary": false
+    },
+    {
+        "id": 10050,
+        "name": "blaziken-mega",
+        "traduction": "Braségali",
+        "legendary": false
+    },
+    {
+        "id": 10051,
+        "name": "gardevoir-mega",
+        "traduction": "Gardevoir",
+        "legendary": false
+    },
+    {
+        "id": 10052,
+        "name": "mawile-mega",
+        "traduction": "Mysdibule",
+        "legendary": false
+    },
+    {
+        "id": 10053,
+        "name": "aggron-mega",
+        "traduction": "Galeking",
+        "legendary": false
+    },
+    {
+        "id": 10054,
+        "name": "medicham-mega",
+        "traduction": "Charmina",
+        "legendary": false
+    },
+    {
+        "id": 10055,
+        "name": "manectric-mega",
+        "traduction": "Élecsprint",
+        "legendary": false
+    },
+    {
+        "id": 10056,
+        "name": "banette-mega",
+        "traduction": "Branette",
+        "legendary": false
+    },
+    {
+        "id": 10057,
+        "name": "absol-mega",
+        "traduction": "Absol",
+        "legendary": false
+    },
+    {
+        "id": 10058,
+        "name": "garchomp-mega",
+        "traduction": "Carchacrok",
+        "legendary": false
+    },
+    {
+        "id": 10059,
+        "name": "lucario-mega",
+        "traduction": "Lucario",
+        "legendary": false
+    },
+    {
+        "id": 10060,
+        "name": "abomasnow-mega",
+        "traduction": "Blizzaroi",
+        "legendary": false
+    },
+    {
+        "id": 10061,
+        "name": "floette-eternal",
+        "traduction": "Floette",
+        "legendary": false
+    },
+    {
+        "id": 10062,
+        "name": "latias-mega",
+        "traduction": "Latias",
+        "legendary": true
+    },
+    {
+        "id": 10063,
+        "name": "latios-mega",
+        "traduction": "Latios",
+        "legendary": true
+    },
+    {
+        "id": 10064,
+        "name": "swampert-mega",
+        "traduction": "Laggron",
+        "legendary": false
+    },
+    {
+        "id": 10065,
+        "name": "sceptile-mega",
+        "traduction": "Jungko",
+        "legendary": false
+    },
+    {
+        "id": 10066,
+        "name": "sableye-mega",
+        "traduction": "Ténéfix",
+        "legendary": false
+    },
+    {
+        "id": 10067,
+        "name": "altaria-mega",
+        "traduction": "Altaria",
+        "legendary": false
+    },
+    {
+        "id": 10068,
+        "name": "gallade-mega",
+        "traduction": "Gallame",
+        "legendary": false
+    },
+    {
+        "id": 10069,
+        "name": "audino-mega",
+        "traduction": "Nanméouïe",
+        "legendary": false
+    },
+    {
+        "id": 10070,
+        "name": "sharpedo-mega",
+        "traduction": "Sharpedo",
+        "legendary": false
+    },
+    {
+        "id": 10071,
+        "name": "slowbro-mega",
+        "traduction": "Flagadoss",
+        "legendary": false
+    },
+    {
+        "id": 10072,
+        "name": "steelix-mega",
+        "traduction": "Steelix",
+        "legendary": false
+    },
+    {
+        "id": 10073,
+        "name": "pidgeot-mega",
+        "traduction": "Roucarnage",
+        "legendary": false
+    },
+    {
+        "id": 10074,
+        "name": "glalie-mega",
+        "traduction": "Oniglali",
+        "legendary": false
+    },
+    {
+        "id": 10075,
+        "name": "diancie-mega",
+        "traduction": "Diancie",
+        "legendary": false
+    },
+    {
+        "id": 10076,
+        "name": "metagross-mega",
+        "traduction": "Métalosse",
+        "legendary": false
+    },
+    {
+        "id": 10077,
+        "name": "kyogre-primal",
+        "traduction": "Kyogre",
+        "legendary": true
+    },
+    {
+        "id": 10078,
+        "name": "groudon-primal",
+        "traduction": "Groudon",
+        "legendary": true
+    },
+    {
+        "id": 10079,
+        "name": "rayquaza-mega",
+        "traduction": "Rayquaza",
+        "legendary": true
+    },
+    {
+        "id": 10080,
+        "name": "pikachu-rock-star",
+        "traduction": "Pikachu",
+        "legendary": false
+    },
+    {
+        "id": 10081,
+        "name": "pikachu-belle",
+        "traduction": "Pikachu",
+        "legendary": false
+    },
+    {
+        "id": 10082,
+        "name": "pikachu-pop-star",
+        "traduction": "Pikachu",
+        "legendary": false
+    },
+    {
+        "id": 10083,
+        "name": "pikachu-phd",
+        "traduction": "Pikachu",
+        "legendary": false
+    },
+    {
+        "id": 10084,
+        "name": "pikachu-libre",
+        "traduction": "Pikachu",
+        "legendary": false
+    },
+    {
+        "id": 10085,
+        "name": "pikachu-cosplay",
+        "traduction": "Pikachu",
+        "legendary": false
+    },
+    {
+        "id": 10086,
+        "name": "hoopa-unbound",
+        "traduction": "Hoopa",
+        "legendary": false
+    },
+    {
+        "id": 10087,
+        "name": "camerupt-mega",
+        "traduction": "Camérupt",
+        "legendary": false
+    },
+    {
+        "id": 10088,
+        "name": "lopunny-mega",
+        "traduction": "Lockpin",
+        "legendary": false
+    },
+    {
+        "id": 10089,
+        "name": "salamence-mega",
+        "traduction": "Drattak",
+        "legendary": false
+    },
+    {
+        "id": 10090,
+        "name": "beedrill-mega",
+        "traduction": "Dardargnan",
+        "legendary": false
+    },
+    {
+        "id": 10091,
+        "name": "rattata-alola",
+        "traduction": "Rattata",
+        "legendary": false
+    },
+    {
+        "id": 10092,
+        "name": "raticate-alola",
+        "traduction": "Rattatac",
+        "legendary": false
+    },
+    {
+        "id": 10093,
+        "name": "raticate-totem-alola",
+        "traduction": "Rattatac",
+        "legendary": false
+    },
+    {
+        "id": 10094,
+        "name": "pikachu-original-cap",
+        "traduction": "Pikachu",
+        "legendary": false
+    },
+    {
+        "id": 10095,
+        "name": "pikachu-hoenn-cap",
+        "traduction": "Pikachu",
+        "legendary": false
+    },
+    {
+        "id": 10096,
+        "name": "pikachu-sinnoh-cap",
+        "traduction": "Pikachu",
+        "legendary": false
+    },
+    {
+        "id": 10097,
+        "name": "pikachu-unova-cap",
+        "traduction": "Pikachu",
+        "legendary": false
+    },
+    {
+        "id": 10098,
+        "name": "pikachu-kalos-cap",
+        "traduction": "Pikachu",
+        "legendary": false
+    },
+    {
+        "id": 10099,
+        "name": "pikachu-alola-cap",
+        "traduction": "Pikachu",
+        "legendary": false
+    },
+    {
+        "id": 10100,
+        "name": "raichu-alola",
+        "traduction": "Raichu",
+        "legendary": false
+    },
+    {
+        "id": 10101,
+        "name": "sandshrew-alola",
+        "traduction": "Sabelette",
+        "legendary": false
+    },
+    {
+        "id": 10102,
+        "name": "sandslash-alola",
+        "traduction": "Sablaireau",
+        "legendary": false
+    },
+    {
+        "id": 10103,
+        "name": "vulpix-alola",
+        "traduction": "Goupix",
+        "legendary": false
+    },
+    {
+        "id": 10104,
+        "name": "ninetales-alola",
+        "traduction": "Feunard",
+        "legendary": false
+    },
+    {
+        "id": 10105,
+        "name": "diglett-alola",
+        "traduction": "Taupiqueur",
+        "legendary": false
+    },
+    {
+        "id": 10106,
+        "name": "dugtrio-alola",
+        "traduction": "Triopikeur",
+        "legendary": false
+    },
+    {
+        "id": 10107,
+        "name": "meowth-alola",
+        "traduction": "Miaouss",
+        "legendary": false
+    },
+    {
+        "id": 10108,
+        "name": "persian-alola",
+        "traduction": "Persian",
+        "legendary": false
+    },
+    {
+        "id": 10109,
+        "name": "geodude-alola",
+        "traduction": "Racaillou",
+        "legendary": false
+    },
+    {
+        "id": 10110,
+        "name": "graveler-alola",
+        "traduction": "Gravalanch",
+        "legendary": false
+    },
+    {
+        "id": 10111,
+        "name": "golem-alola",
+        "traduction": "Grolem",
+        "legendary": false
+    },
+    {
+        "id": 10112,
+        "name": "grimer-alola",
+        "traduction": "Tadmorv",
+        "legendary": false
+    },
+    {
+        "id": 10113,
+        "name": "muk-alola",
+        "traduction": "Grotadmorv",
+        "legendary": false
+    },
+    {
+        "id": 10114,
+        "name": "exeggutor-alola",
+        "traduction": "Noadkoko",
+        "legendary": false
+    },
+    {
+        "id": 10115,
+        "name": "marowak-alola",
+        "traduction": "Ossatueur",
+        "legendary": false
+    },
+    {
+        "id": 10116,
+        "name": "greninja-battle-bond",
+        "traduction": "Amphinobi",
+        "legendary": false
+    },
+    {
+        "id": 10117,
+        "name": "greninja-ash",
+        "traduction": "Amphinobi",
+        "legendary": false
+    },
+    {
+        "id": 10118,
+        "name": "zygarde-10-power-construct",
+        "traduction": "Zygarde",
+        "legendary": true
+    },
+    {
+        "id": 10119,
+        "name": "zygarde-50-power-construct",
+        "traduction": "Zygarde",
+        "legendary": true
+    },
+    {
+        "id": 10120,
+        "name": "zygarde-complete",
+        "traduction": "Zygarde",
+        "legendary": true
+    },
+    {
+        "id": 10121,
+        "name": "gumshoos-totem",
+        "traduction": "Argouste",
+        "legendary": false
+    },
+    {
+        "id": 10122,
+        "name": "vikavolt-totem",
+        "traduction": "Lucanon",
+        "legendary": false
+    },
+    {
+        "id": 10123,
+        "name": "oricorio-pom-pom",
+        "traduction": "Plumeline",
+        "legendary": false
+    },
+    {
+        "id": 10124,
+        "name": "oricorio-pau",
+        "traduction": "Plumeline",
+        "legendary": false
+    },
+    {
+        "id": 10125,
+        "name": "oricorio-sensu",
+        "traduction": "Plumeline",
+        "legendary": false
+    },
+    {
+        "id": 10126,
+        "name": "lycanroc-midnight",
+        "traduction": "Lougaroc",
+        "legendary": false
+    },
+    {
+        "id": 10127,
+        "name": "wishiwashi-school",
+        "traduction": "Froussardine",
+        "legendary": false
+    },
+    {
+        "id": 10128,
+        "name": "lurantis-totem",
+        "traduction": "Floramantis",
+        "legendary": false
+    },
+    {
+        "id": 10129,
+        "name": "salazzle-totem",
+        "traduction": "Malamandre",
+        "legendary": false
+    },
+    {
+        "id": 10130,
+        "name": "minior-orange-meteor",
+        "traduction": "Météno",
+        "legendary": false
+    },
+    {
+        "id": 10131,
+        "name": "minior-yellow-meteor",
+        "traduction": "Météno",
+        "legendary": false
+    },
+    {
+        "id": 10132,
+        "name": "minior-green-meteor",
+        "traduction": "Météno",
+        "legendary": false
+    },
+    {
+        "id": 10133,
+        "name": "minior-blue-meteor",
+        "traduction": "Météno",
+        "legendary": false
+    },
+    {
+        "id": 10134,
+        "name": "minior-indigo-meteor",
+        "traduction": "Météno",
+        "legendary": false
+    },
+    {
+        "id": 10135,
+        "name": "minior-violet-meteor",
+        "traduction": "Météno",
+        "legendary": false
+    },
+    {
+        "id": 10136,
+        "name": "minior-red",
+        "traduction": "Météno",
+        "legendary": false
+    },
+    {
+        "id": 10137,
+        "name": "minior-orange",
+        "traduction": "Météno",
+        "legendary": false
+    },
+    {
+        "id": 10138,
+        "name": "minior-yellow",
+        "traduction": "Météno",
+        "legendary": false
+    },
+    {
+        "id": 10139,
+        "name": "minior-green",
+        "traduction": "Météno",
+        "legendary": false
+    },
+    {
+        "id": 10140,
+        "name": "minior-blue",
+        "traduction": "Météno",
+        "legendary": false
+    },
+    {
+        "id": 10141,
+        "name": "minior-indigo",
+        "traduction": "Météno",
+        "legendary": false
+    },
+    {
+        "id": 10142,
+        "name": "minior-violet",
+        "traduction": "Météno",
+        "legendary": false
+    },
+    {
+        "id": 10143,
+        "name": "mimikyu-busted",
+        "traduction": "Mimiqui",
+        "legendary": false
+    },
+    {
+        "id": 10144,
+        "name": "mimikyu-totem-disguised",
+        "traduction": "Mimiqui",
+        "legendary": false
+    },
+    {
+        "id": 10145,
+        "name": "mimikyu-totem-busted",
+        "traduction": "Mimiqui",
+        "legendary": false
+    },
+    {
+        "id": 10146,
+        "name": "kommo-o-totem",
+        "traduction": "Ékaïser",
+        "legendary": false
+    },
+    {
+        "id": 10147,
+        "name": "magearna-original",
+        "traduction": "Magearna",
+        "legendary": false
+    },
+    {
+        "id": 10148,
+        "name": "pikachu-partner-cap",
+        "traduction": "Pikachu",
+        "legendary": false
+    },
+    {
+        "id": 10149,
+        "name": "marowak-totem",
+        "traduction": "Ossatueur",
+        "legendary": false
+    },
+    {
+        "id": 10150,
+        "name": "ribombee-totem",
+        "traduction": "Rubombelle",
+        "legendary": false
+    },
+    {
+        "id": 10151,
+        "name": "rockruff-own-tempo",
+        "traduction": "Rocabot",
+        "legendary": false
+    },
+    {
+        "id": 10152,
+        "name": "lycanroc-dusk",
+        "traduction": "Lougaroc",
+        "legendary": false
+    },
+    {
+        "id": 10153,
+        "name": "araquanid-totem",
+        "traduction": "Tarenbulle",
+        "legendary": false
+    },
+    {
+        "id": 10154,
+        "name": "togedemaru-totem",
+        "traduction": "Togedemaru",
+        "legendary": false
+    },
+    {
+        "id": 10155,
+        "name": "necrozma-dusk",
+        "traduction": "Necrozma",
+        "legendary": true
+    },
+    {
+        "id": 10156,
+        "name": "necrozma-dawn",
+        "traduction": "Necrozma",
+        "legendary": true
+    },
+    {
+        "id": 10157,
+        "name": "necrozma-ultra",
+        "traduction": "Necrozma",
+        "legendary": true
+    },
+    {
+        "id": 10158,
+        "name": "pikachu-starter",
+        "traduction": "Pikachu",
+        "legendary": false
+    },
+    {
+        "id": 10159,
+        "name": "eevee-starter",
+        "traduction": "Évoli",
+        "legendary": false
+    },
+    {
+        "id": 10160,
+        "name": "pikachu-world-cap",
+        "traduction": "Pikachu",
+        "legendary": false
+    },
+    {
+        "id": 10161,
+        "name": "meowth-galar",
+        "traduction": "Miaouss",
+        "legendary": false
+    },
+    {
+        "id": 10162,
+        "name": "ponyta-galar",
+        "traduction": "Ponyta",
+        "legendary": false
+    },
+    {
+        "id": 10163,
+        "name": "rapidash-galar",
+        "traduction": "Galopa",
+        "legendary": false
+    },
+    {
+        "id": 10164,
+        "name": "slowpoke-galar",
+        "traduction": "Ramoloss",
+        "legendary": false
+    },
+    {
+        "id": 10165,
+        "name": "slowbro-galar",
+        "traduction": "Flagadoss",
+        "legendary": false
+    },
+    {
+        "id": 10166,
+        "name": "farfetchd-galar",
+        "traduction": "Canarticho",
+        "legendary": false
+    },
+    {
+        "id": 10167,
+        "name": "weezing-galar",
+        "traduction": "Smogogo",
+        "legendary": false
+    },
+    {
+        "id": 10168,
+        "name": "mr-mime-galar",
+        "traduction": "M. Mime",
+        "legendary": false
+    },
+    {
+        "id": 10169,
+        "name": "articuno-galar",
+        "traduction": "Artikodin",
+        "legendary": true
+    },
+    {
+        "id": 10170,
+        "name": "zapdos-galar",
+        "traduction": "Électhor",
+        "legendary": true
+    },
+    {
+        "id": 10171,
+        "name": "moltres-galar",
+        "traduction": "Sulfura",
+        "legendary": true
+    },
+    {
+        "id": 10172,
+        "name": "slowking-galar",
+        "traduction": "Roigada",
+        "legendary": false
+    },
+    {
+        "id": 10173,
+        "name": "corsola-galar",
+        "traduction": "Corayon",
+        "legendary": false
+    },
+    {
+        "id": 10174,
+        "name": "zigzagoon-galar",
+        "traduction": "Zigzaton",
+        "legendary": false
+    },
+    {
+        "id": 10175,
+        "name": "linoone-galar",
+        "traduction": "Linéon",
+        "legendary": false
+    },
+    {
+        "id": 10176,
+        "name": "darumaka-galar",
+        "traduction": "Darumarond",
+        "legendary": false
+    },
+    {
+        "id": 10177,
+        "name": "darmanitan-galar-standard",
+        "traduction": "Darumacho",
+        "legendary": false
+    },
+    {
+        "id": 10178,
+        "name": "darmanitan-galar-zen",
+        "traduction": "Darumacho",
+        "legendary": false
+    },
+    {
+        "id": 10179,
+        "name": "yamask-galar",
+        "traduction": "Tutafeh",
+        "legendary": false
+    },
+    {
+        "id": 10180,
+        "name": "stunfisk-galar",
+        "traduction": "Limonde",
+        "legendary": false
+    },
+    {
+        "id": 10181,
+        "name": "zygarde-10",
+        "traduction": "Zygarde",
+        "legendary": true
+    },
+    {
+        "id": 10182,
+        "name": "cramorant-gulping",
+        "traduction": "Nigosier",
+        "legendary": false
+    },
+    {
+        "id": 10183,
+        "name": "cramorant-gorging",
+        "traduction": "Nigosier",
+        "legendary": false
+    },
+    {
+        "id": 10184,
+        "name": "toxtricity-low-key",
+        "traduction": "Salarsen",
+        "legendary": false
+    },
+    {
+        "id": 10185,
+        "name": "eiscue-noice",
+        "traduction": "Bekaglaçon",
+        "legendary": false
+    },
+    {
+        "id": 10186,
+        "name": "indeedee-female",
+        "traduction": "Wimessir",
+        "legendary": false
+    },
+    {
+        "id": 10187,
+        "name": "morpeko-hangry",
+        "traduction": "Morpeko",
+        "legendary": false
+    },
+    {
+        "id": 10188,
+        "name": "zacian-crowned",
+        "traduction": "Zacian",
+        "legendary": true
+    },
+    {
+        "id": 10189,
+        "name": "zamazenta-crowned",
+        "traduction": "Zamazenta",
+        "legendary": true
+    },
+    {
+        "id": 10190,
+        "name": "eternatus-eternamax",
+        "traduction": "Éthernatos",
+        "legendary": true
+    },
+    {
+        "id": 10191,
+        "name": "urshifu-rapid-strike",
+        "traduction": "Shifours",
+        "legendary": true
+    },
+    {
+        "id": 10192,
+        "name": "zarude-dada",
+        "traduction": "Zarude",
+        "legendary": false
+    },
+    {
+        "id": 10193,
+        "name": "calyrex-ice",
+        "traduction": "Sylveroy",
+        "legendary": true
+    },
+    {
+        "id": 10194,
+        "name": "calyrex-shadow",
+        "traduction": "Sylveroy",
+        "legendary": true
+    },
+    {
+        "id": 10195,
+        "name": "venusaur-gmax",
+        "traduction": "Florizarre",
+        "legendary": false
+    },
+    {
+        "id": 10196,
+        "name": "charizard-gmax",
+        "traduction": "Dracaufeu",
+        "legendary": false
+    },
+    {
+        "id": 10197,
+        "name": "blastoise-gmax",
+        "traduction": "Tortank",
+        "legendary": false
+    },
+    {
+        "id": 10198,
+        "name": "butterfree-gmax",
+        "traduction": "Papilusion",
+        "legendary": false
+    },
+    {
+        "id": 10199,
+        "name": "pikachu-gmax",
+        "traduction": "Pikachu",
+        "legendary": false
+    },
+    {
+        "id": 10200,
+        "name": "meowth-gmax",
+        "traduction": "Miaouss",
+        "legendary": false
+    },
+    {
+        "id": 10201,
+        "name": "machamp-gmax",
+        "traduction": "Mackogneur",
+        "legendary": false
+    },
+    {
+        "id": 10202,
+        "name": "gengar-gmax",
+        "traduction": "Ectoplasma",
+        "legendary": false
+    },
+    {
+        "id": 10203,
+        "name": "kingler-gmax",
+        "traduction": "Krabboss",
+        "legendary": false
+    },
+    {
+        "id": 10204,
+        "name": "lapras-gmax",
+        "traduction": "Lokhlass",
+        "legendary": false
+    },
+    {
+        "id": 10205,
+        "name": "eevee-gmax",
+        "traduction": "Évoli",
+        "legendary": false
+    },
+    {
+        "id": 10206,
+        "name": "snorlax-gmax",
+        "traduction": "Ronflex",
+        "legendary": false
+    },
+    {
+        "id": 10207,
+        "name": "garbodor-gmax",
+        "traduction": "Miasmax",
+        "legendary": false
+    },
+    {
+        "id": 10208,
+        "name": "melmetal-gmax",
+        "traduction": "Melmetal",
+        "legendary": false
+    },
+    {
+        "id": 10209,
+        "name": "rillaboom-gmax",
+        "traduction": "Gorythmic",
+        "legendary": false
+    },
+    {
+        "id": 10210,
+        "name": "cinderace-gmax",
+        "traduction": "Pyrobut",
+        "legendary": false
+    },
+    {
+        "id": 10211,
+        "name": "inteleon-gmax",
+        "traduction": "Lézargus",
+        "legendary": false
+    },
+    {
+        "id": 10212,
+        "name": "corviknight-gmax",
+        "traduction": "Corvaillus",
+        "legendary": false
+    },
+    {
+        "id": 10213,
+        "name": "orbeetle-gmax",
+        "traduction": "Astronelle",
+        "legendary": false
+    },
+    {
+        "id": 10214,
+        "name": "drednaw-gmax",
+        "traduction": "Torgamord",
+        "legendary": false
+    },
+    {
+        "id": 10215,
+        "name": "coalossal-gmax",
+        "traduction": "Monthracite",
+        "legendary": false
+    },
+    {
+        "id": 10216,
+        "name": "flapple-gmax",
+        "traduction": "Pomdrapi",
+        "legendary": false
+    },
+    {
+        "id": 10217,
+        "name": "appletun-gmax",
+        "traduction": "Dratatin",
+        "legendary": false
+    },
+    {
+        "id": 10218,
+        "name": "sandaconda-gmax",
+        "traduction": "Dunaconda",
+        "legendary": false
+    },
+    {
+        "id": 10219,
+        "name": "toxtricity-amped-gmax",
+        "traduction": "Salarsen",
+        "legendary": false
+    },
+    {
+        "id": 10220,
+        "name": "centiskorch-gmax",
+        "traduction": "Scolocendre",
+        "legendary": false
+    },
+    {
+        "id": 10221,
+        "name": "hatterene-gmax",
+        "traduction": "Sorcilence",
+        "legendary": false
+    },
+    {
+        "id": 10222,
+        "name": "grimmsnarl-gmax",
+        "traduction": "Angoliath",
+        "legendary": false
+    },
+    {
+        "id": 10223,
+        "name": "alcremie-gmax",
+        "traduction": "Charmilly",
+        "legendary": false
+    },
+    {
+        "id": 10224,
+        "name": "copperajah-gmax",
+        "traduction": "Pachyradjah",
+        "legendary": false
+    },
+    {
+        "id": 10225,
+        "name": "duraludon-gmax",
+        "traduction": "Duralugon",
+        "legendary": false
+    },
+    {
+        "id": 10226,
+        "name": "urshifu-single-strike-gmax",
+        "traduction": "Shifours",
+        "legendary": true
+    },
+    {
+        "id": 10227,
+        "name": "urshifu-rapid-strike-gmax",
+        "traduction": "Shifours",
+        "legendary": true
+    },
+    {
+        "id": 10228,
+        "name": "toxtricity-low-key-gmax",
+        "traduction": "Salarsen",
+        "legendary": false
+    },
+    {
+        "id": 10229,
+        "name": "growlithe-hisui",
+        "traduction": "Caninos",
+        "legendary": false
+    },
+    {
+        "id": 10230,
+        "name": "arcanine-hisui",
+        "traduction": "Arcanin",
+        "legendary": false
+    },
+    {
+        "id": 10231,
+        "name": "voltorb-hisui",
+        "traduction": "Voltorbe",
+        "legendary": false
+    },
+    {
+        "id": 10232,
+        "name": "electrode-hisui",
+        "traduction": "Électrode",
+        "legendary": false
+    },
+    {
+        "id": 10233,
+        "name": "typhlosion-hisui",
+        "traduction": "Typhlosion",
+        "legendary": false
+    },
+    {
+        "id": 10234,
+        "name": "qwilfish-hisui",
+        "traduction": "Qwilfish",
+        "legendary": false
+    },
+    {
+        "id": 10235,
+        "name": "sneasel-hisui",
+        "traduction": "Farfuret",
+        "legendary": false
+    },
+    {
+        "id": 10236,
+        "name": "samurott-hisui",
+        "traduction": "Clamiral",
+        "legendary": false
+    },
+    {
+        "id": 10237,
+        "name": "lilligant-hisui",
+        "traduction": "Fragilady",
+        "legendary": false
+    },
+    {
+        "id": 10238,
+        "name": "zorua-hisui",
+        "traduction": "Zorua",
+        "legendary": false
+    },
+    {
+        "id": 10239,
+        "name": "zoroark-hisui",
+        "traduction": "Zoroark",
+        "legendary": false
+    },
+    {
+        "id": 10240,
+        "name": "braviary-hisui",
+        "traduction": "Gueriaigle",
+        "legendary": false
+    },
+    {
+        "id": 10241,
+        "name": "sliggoo-hisui",
+        "traduction": "Colimucus",
+        "legendary": false
+    },
+    {
+        "id": 10242,
+        "name": "goodra-hisui",
+        "traduction": "Muplodocus",
+        "legendary": false
+    },
+    {
+        "id": 10243,
+        "name": "avalugg-hisui",
+        "traduction": "Séracrawl",
+        "legendary": false
+    },
+    {
+        "id": 10244,
+        "name": "decidueye-hisui",
+        "traduction": "Archéduc",
+        "legendary": false
+    },
+    {
+        "id": 10245,
+        "name": "dialga-origin",
+        "traduction": "Dialga",
+        "legendary": true
+    },
+    {
+        "id": 10246,
+        "name": "palkia-origin",
+        "traduction": "Palkia",
+        "legendary": true
+    },
+    {
+        "id": 10247,
+        "name": "basculin-white-striped",
+        "traduction": "Bargantua",
+        "legendary": false
+    },
+    {
+        "id": 10248,
+        "name": "basculegion-female",
+        "traduction": "Paragruel",
+        "legendary": false
+    },
+    {
+        "id": 10249,
+        "name": "enamorus-therian",
+        "traduction": "Amovénus",
+        "legendary": true
+    }
+]
