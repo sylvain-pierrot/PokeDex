@@ -159,7 +159,7 @@ export default createStore({
         );
         // habitat
         if (pokeSpecies.habitat != null) {
-          const listNamesHabitat = (await state.pokedex.resource()).names;
+          const listNamesHabitat = (await state.pokedex.resource(pokeSpecies.habitat.url)).names;
           pokemon.habitat = await dispatch("findByLang", listNamesHabitat);
         } else {
           pokemon.habitat = "???";
