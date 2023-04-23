@@ -1,6 +1,7 @@
 <template>
   <header>
     <nav class="main">
+      <h1>Zeubi</h1>
       <ul>
         <li class="pokedex">
           <router-link
